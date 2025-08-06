@@ -1,34 +1,47 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CAROLINA": [
     {
-      "zone": "FRAILES",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "PARC LOPEZ CASES",
-      "area": "GUAYNABO"
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Ave. 65 De Infanteria",
+      "zone": "BO FLORIDA AFUERA SECT.ALGIBE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Bda. Buena Vista H.Re",
+      "zone": "ESCUELA GERARDO SELLE SOLA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SABANA LLANA",
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB BORINQUEN GARDENS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB COUNTRY CLUB",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO PAJAROS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

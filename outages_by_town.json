@@ -1,28 +1,20 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
+      "zone": "URB. MONTE OLIMPO",
+      "area": "GUAYNABO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "BO FLORIDA AFUERA SECT.ALGIBE",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
       "zone": "ESCUELA GERARDO SELLE SOLA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
@@ -35,10 +27,6 @@
     }
   ],
   "BAYAMON": [
-    {
-      "zone": "BO PAJAROS",
-      "area": "BAYAMON"
-    },
     {
       "zone": "HATO TEJAS",
       "area": "BAYAMON"

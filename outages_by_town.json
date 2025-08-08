@@ -1,34 +1,30 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CAROLINA": [
     {
-      "zone": "URB. MONTE OLIMPO",
-      "area": "GUAYNABO"
+      "zone": "TRUJILLO BAJO",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "QUEBRADA ARENAS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "ESCUELA GERARDO SELLE SOLA",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB BORINQUEN GARDENS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB COUNTRY CLUB",
+      "zone": "URB LA RIVIERA",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "HATO TEJAS",
+      "zone": "FRENTE ESC.CERVANTES",
       "area": "BAYAMON"
     }
   ]

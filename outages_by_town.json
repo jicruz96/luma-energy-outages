@@ -1,23 +1,32 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "CAROLINA": [
+    {
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "SAN ANTON",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "QUEBRADA GRANDE",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
     {
-      "zone": "Urb. Villa Caparra",
+      "zone": "URB. PRADO ALTO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA SUR",
+      "zone": "EL CERRO BO. ASOMANTE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

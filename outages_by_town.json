@@ -2,11 +2,11 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "SABANA ABAJO",
+      "zone": "BO QUEBRADA GRANDE",
       "area": "CAROLINA"
     },
     {
-      "zone": "SAN ANTON",
+      "zone": "HOYO MULAS",
       "area": "CAROLINA"
     }
   ],
@@ -18,15 +18,39 @@
   ],
   "GUAYNABO": [
     {
-      "zone": "URB. PRADO ALTO",
+      "zone": "Bo. Sonadora",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "SANTA ROSA",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. PARKVILLE",
       "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [
+  "SAN JUAN": [],
+  "BAYAMON": [
     {
-      "zone": "EL CERRO BO. ASOMANTE",
-      "area": "SAN JUAN"
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB ALTURAS DE FLAMBOYAN",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB VILLA RICA",
+      "area": "BAYAMON"
     }
-  ],
-  "BAYAMON": []
+  ]
 }

@@ -1,36 +1,40 @@
 {
-  "CATANO": [],
-  "CAROLINA": [
+  "CATANO": [
     {
-      "zone": "BO QUEBRADA GRANDE",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
+      "zone": "PALMCOURT/LAS VEGAS",
+      "area": "CATANO"
     }
   ],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "QUEBRADA GRANDE",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Bo. Sonadora",
+      "zone": "Bo. Frailes",
       "area": "GUAYNABO"
     },
     {
       "zone": "SANTA ROSA",
       "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. PARKVILLE",
-      "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "PEREZ MORRIS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Las Lomas",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": [
     {
       "zone": "CERRO GORDO",
@@ -41,15 +45,7 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    },
-    {
       "zone": "URB ALTURAS DE FLAMBOYAN",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB VILLA RICA",
       "area": "BAYAMON"
     }
   ]

@@ -1,17 +1,8 @@
 {
-  "CATANO": [
-    {
-      "zone": "PALMCOURT/LAS VEGAS",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
-    {
-      "zone": "Bo. Frailes",
-      "area": "GUAYNABO"
-    },
     {
       "zone": "SANTA ROSA",
       "area": "GUAYNABO"
@@ -19,34 +10,9 @@
   ],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "PEREZ MORRIS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Las Lomas",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB ALTURAS DE FLAMBOYAN",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

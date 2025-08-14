@@ -1,18 +1,31 @@
 {
-  "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CATANO": [
     {
-      "zone": "SANTA ROSA",
-      "area": "GUAYNABO"
+      "zone": "URB PUB PR 58 JUANA MATOS",
+      "area": "CATANO"
     }
   ],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "MONACILLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB SAN GERARDO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB SANTA RITA",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "CARR 174 SEC LOS TORRES",
+      "area": "BAYAMON"
+    }
+  ]
 }

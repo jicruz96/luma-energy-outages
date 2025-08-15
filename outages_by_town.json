@@ -10,22 +10,17 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "MONACILLO",
+      "zone": "CAIMITO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB SAN GERARDO",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB SANTA RITA",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "CARR 174 SEC LOS TORRES",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

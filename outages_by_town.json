@@ -1,16 +1,25 @@
 {
-  "CATANO": [
+  "CATANO": [],
+  "CAROLINA": [
     {
-      "zone": "URB PUB PR 58 JUANA MATOS",
-      "area": "CATANO"
+      "zone": "CANGREJO ARRIBA",
+      "area": "CAROLINA"
     }
   ],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
+      "zone": "Ave. Roosevelt",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Obrero",
       "area": "SAN JUAN"
     },
     {
@@ -20,7 +29,24 @@
     {
       "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
+    },
+    {
+      "zone": "SAN JUAN ANTIGUO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB INDUSTRIAL TRES MONJITAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Viejo San Juan",
+      "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

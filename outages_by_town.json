@@ -2,7 +2,15 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "CANGREJO ARRIBA",
+      "zone": "MARTIN GONZALEZ",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "URB COUNTRY CLUB",
       "area": "CAROLINA"
     }
   ],
@@ -10,12 +18,33 @@
     {
       "zone": "CARRAIZO",
       "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "CUEVAS",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "MAMEY",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB MONTE ALVENIA",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. MUÑOZ RIVERA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "Ave. Roosevelt",
+      "zone": "Bo. Cupey Bajo",
       "area": "SAN JUAN"
     },
     {
@@ -23,7 +52,27 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COND MIRAMAR ROYALE TORRE SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "HATO REY SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "HOSPITAL SAN GERARDO",
       "area": "SAN JUAN"
     },
     {
@@ -31,21 +80,77 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "SAN JUAN ANTIGUO",
+      "zone": "Parcelas Falu",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB INDUSTRIAL TRES MONJITAS",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Viejo San Juan",
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB BALDRICH",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB SAN AGUSTIN",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Park Gardens",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "VILLA PALMERAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "VILLAS DE SAN FRANCISCO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Zona Industrial Julia",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
+      "zone": "BUENA VISTA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "DAJAOS",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "JUAN SANCHEZ",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB MIRAFLORES",
       "area": "BAYAMON"
     }
   ]

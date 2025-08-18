@@ -1,6 +1,19 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "URB BAY VIEW",
+      "area": "CATANO"
+    },
+    {
+      "zone": "URB LAS VEGAS",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [
+    {
+      "zone": "BO. CACAO-SEC EL CEMENTERIO",
+      "area": "CAROLINA"
+    },
     {
       "zone": "MARTIN GONZALEZ",
       "area": "CAROLINA"
@@ -10,11 +23,23 @@
       "area": "CAROLINA"
     },
     {
+      "zone": "TRUJILLO BAJO",
+      "area": "CAROLINA"
+    },
+    {
       "zone": "URB COUNTRY CLUB",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "URB LOMAS DEL SOL",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Las Cuevas",
+      "area": "TRUJILLO ALTO"
+    },
     {
       "zone": "CARRAIZO",
       "area": "TRUJILLO ALTO"
@@ -22,11 +47,31 @@
     {
       "zone": "CUEVAS",
       "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "QUEBRADA GRANDE",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "QUEBRADA NEGRITO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "ST. JUST",
+      "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [
     {
-      "zone": "FRAILES",
+      "zone": "CALLE FLAMBOYAN SANTA ROSA III",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "FRAILES LLANOS/SEC PEPE BURGOS",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "HATO NUEVO",
       "area": "GUAYNABO"
     },
     {
@@ -34,21 +79,53 @@
       "area": "GUAYNABO"
     },
     {
+      "zone": "PUEBLO VIEJO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "RIO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "SECT LOPEZ CASES BO GUARAGUAO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB MANSIONES GARDEN HILLS",
+      "area": "GUAYNABO"
+    },
+    {
       "zone": "URB MONTE ALVENIA",
       "area": "GUAYNABO"
     },
     {
-      "zone": "URB. MUÑOZ RIVERA",
+      "zone": "VILLA CONCEPCION I",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Bo. Cupey Bajo",
+      "zone": "Ave. 65 De Infanteria",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Bo. Obrero",
+      "zone": "BDA BORINQUEN",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "BO CAIMITO CAM LOS COTTO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Caimito Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Miramar",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Tortugo",
       "area": "SAN JUAN"
     },
     {
@@ -56,7 +133,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "COND MIRAMAR ROYALE TORRE SUR",
+      "zone": "COND DELMONICO APT 10 B",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COND MADRID PLAZA",
       "area": "SAN JUAN"
     },
     {
@@ -64,15 +145,27 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "EDIF JIMENEZ MANDES",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "EL CINCO",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "HATO REY SUR",
+      "zone": "HATO REY CENTRAL",
       "area": "SAN JUAN"
     },
     {
-      "zone": "HOSPITAL SAN GERARDO",
+      "zone": "HATO REY NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     },
     {
@@ -80,7 +173,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "Parcelas Falu",
+      "zone": "PUEBLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "RES EXT JARDINES DE SELLES",
       "area": "SAN JUAN"
     },
     {
@@ -92,7 +189,19 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "SAN JUAN ANTIGUO",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Sector Monacillos",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "TORTUGO",
       "area": "SAN JUAN"
     },
     {
@@ -100,29 +209,61 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "URB BORINQUEN GARDENS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB EL COMANDANTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB EXT ROOSEVELT **HAY ICC**",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB OCEAN PARK",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PORTALES DE LAS CUMBRES",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "URB SAN AGUSTIN",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Urb. Park Gardens",
+      "zone": "URB VENUS GARDENS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "VILLA PALMERAS",
+      "zone": "Urb. Puerto Nuevo Calles NO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "VILLAS DE SAN FRANCISCO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Zona Industrial Julia",
+      "zone": "Zona Ind. Sabana Llana",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
+      "zone": "BO DAJAOS CARRETERA SEC MCKLEN",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "BO DAJAOS SEC EL CHICHARO",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "BUENA VISTA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Bo. Cerro Gordo",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Bo. Guaraguao Arriba",
       "area": "BAYAMON"
     },
     {
@@ -130,15 +271,11 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "DAJAOS",
+      "zone": "GUARAGUAO ARRIBA",
       "area": "BAYAMON"
     },
     {
       "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "JUAN SANCHEZ",
       "area": "BAYAMON"
     },
     {
@@ -150,7 +287,15 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "URB MIRAFLORES",
+      "zone": "URB PANORAMA ESTATES",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB PUB LA ALHAMBRA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB. SIERRA LINDA",
       "area": "BAYAMON"
     }
   ]

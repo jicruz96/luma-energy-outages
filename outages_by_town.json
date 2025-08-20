@@ -2,59 +2,31 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "SABANA ABAJO",
+      "zone": "SAN ANTON",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "URB COUNTRY CLUB",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [
     {
-      "zone": "Bo. La Gloria",
+      "zone": "BO LA GLORIA/CAM ROBERTO RESTO",
       "area": "TRUJILLO ALTO"
     },
     {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "CUEVAS",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "DOS BOCAS",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "LA GLORIA",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "QUEBRADA NEGRITO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "SECT MATIENZO BO TRUJILLO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "ST. JUST",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "TRUJILLO ALTO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "URB GOLDEN HILLS",
+      "zone": "Bo. Carraizo",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [
     {
-      "zone": "CAMARONES",
+      "zone": "BO FRAILES ALEJANDRINO",
       "area": "GUAYNABO"
     },
     {
-      "zone": "HATO NUEVO",
+      "zone": "OLYMPIC",
       "area": "GUAYNABO"
     },
     {
@@ -62,45 +34,29 @@
       "area": "GUAYNABO"
     },
     {
-      "zone": "SAN PATRICIO PLAZA BASE L-2",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB MANSIONES DE GUAYNABO",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. GARDEN HILLS OESTE",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. MUÑOZ RIVERA",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. PARQUE SAN PATRICIO",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. TORRIMAR",
+      "zone": "SONADORA",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "BDA BORINQUEN",
+      "zone": "BDA BITUMUL/ #520",
       "area": "SAN JUAN"
     },
     {
-      "zone": "BO OBRERO ** HAY ICC VER 15-12",
+      "zone": "Bda. Hernandez",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Bo. Miramar",
+      "zone": "Bo. Caimito Alto",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CAIMITO",
+      "zone": "Bo. Cupey Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CASA CONDADO",
       "area": "SAN JUAN"
     },
     {
@@ -108,7 +64,7 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "COND PAZ GRANELA",
+      "zone": "COND SAN LUIS",
       "area": "SAN JUAN"
     },
     {
@@ -116,11 +72,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "DIV SERV MEDICOS PREV",
+      "zone": "Cond. Balcones de San Juan",
       "area": "SAN JUAN"
     },
     {
-      "zone": "EL CINCO",
+      "zone": "DIV SERV MEDICOS PREV",
       "area": "SAN JUAN"
     },
     {
@@ -128,15 +84,7 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "HATO REY CENTRAL",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "HATO REY SUR",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "HOSPITAL SAN GERARDO",
+      "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     },
     {
@@ -152,7 +100,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "PARCELAS CANEJAS BO. CAIMITO",
+      "zone": "PRUDENTIAL DRY CLEANER",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "PUEBLO",
       "area": "SAN JUAN"
     },
     {
@@ -164,11 +116,15 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "SAN JUAN ANTIGUO",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
+      "zone": "UNIVERSIDAD",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB COUNTRY CLUB",
       "area": "SAN JUAN"
     },
     {
@@ -176,7 +132,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB PORTALES DE LAS CUMBRES",
+      "zone": "URB LAS LOMAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUB M A PEREZ",
       "area": "SAN JUAN"
     },
     {
@@ -188,7 +148,27 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB VENUS GARDENS",
+      "zone": "URB VILLA NEVAREZ",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Gonzalez RP",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Iturregui",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Los Maestros",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Park Court",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Pinero",
       "area": "SAN JUAN"
     },
     {
@@ -196,29 +176,25 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "Urb. Villa Olimpica",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Villa Prades",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "VILLAS DE LOMAS VERDES",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Zona Ind. Sabana Llana",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO NUEVO/LOS VILLEGAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "SECTOR VILLEGAS BO NUEVO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB SANTA JUANITA",
+      "zone": "Bo. Guaraguao Arriba",
       "area": "BAYAMON"
     }
   ]

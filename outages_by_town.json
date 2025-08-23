@@ -1,38 +1,35 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "CANOVANILLAS",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "URB COUNTRY CLUB  4TA SEC",
-      "area": "CAROLINA"
+      "zone": "ST. JUST",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "OLYMPIC",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "SAN VICENTE",
+      "zone": "Bo. Sonadora",
       "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "URB REPTO UNIVERSITARIO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Puerto Nuevo Nombres",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": [
     {
-      "zone": "JUAN SANCHEZ",
+      "zone": "DAJAOS",
       "area": "BAYAMON"
     },
     {
-      "zone": "PAJAROS",
+      "zone": "URB ROYAL PALM  MONT 2",
       "area": "BAYAMON"
     }
   ]

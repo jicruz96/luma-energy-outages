@@ -1,82 +1,38 @@
 {
-  "CATANO": [
-    {
-      "zone": "BO PUEBLO",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [
-    {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    },
     {
       "zone": "MARTIN GONZALEZ CAROLINA",
       "area": "CAROLINA"
     },
     {
-      "zone": "URB VILLAMAR",
+      "zone": "TRUJILLO BAJO",
       "area": "CAROLINA"
     }
   ],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "URB RES INTERAMERICANA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
     {
-      "zone": "Bo. Sonadora",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. TORRIMAR",
+      "zone": "Bo.Amelia",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "QUEBRADA ARENAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA SUR",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Puerto Nuevo Nombres",
+      "zone": "VER 15/12URGENTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
-    {
-      "zone": "BO NUEVO / SECT LOPEZ",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "BO SANTA OLAYA SEC COLLORES",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "JUAN SANCHEZ",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    },
     {
       "zone": "PAJAROS",
       "area": "BAYAMON"

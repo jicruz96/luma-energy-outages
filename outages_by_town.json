@@ -3,42 +3,16 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "QUEBRADA NEGRITO",
+      "zone": "SEC BUEN PASTOR QUEBRADA ARENA",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "BO GUARAGUAO ABAJO/LOPEZ CASES",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "COND THE FALLS/PRT-CLARO IP-93",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "PUEBLO VIEJO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "QUEBRADA ARENAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
+      "zone": "Urb. Los Choferes",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

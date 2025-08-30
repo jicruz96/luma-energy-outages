@@ -1,18 +1,40 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "CANOVANILLAS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
-      "zone": "SEC BUEN PASTOR QUEBRADA ARENA",
+      "zone": "JARDNS DE TRUJILLO ALTO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "QUEBRADA NEGRITO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "URB VILLAS DE CANEY",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Urb. Los Choferes",
+      "zone": "EL CINCO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "HATO REY CENTRAL",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    }
+  ]
 }

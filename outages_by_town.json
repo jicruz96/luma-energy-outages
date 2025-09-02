@@ -2,12 +2,17 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": [
+  "GUAYNABO": [
     {
-      "zone": "BUENA VISTA",
-      "area": "BAYAMON"
+      "zone": "URB. FRAILES SUR",
+      "area": "GUAYNABO"
     }
-  ]
+  ],
+  "SAN JUAN": [
+    {
+      "zone": "BO OBRERO  **P1**",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": []
 }

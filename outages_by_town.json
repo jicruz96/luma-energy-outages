@@ -1,8 +1,23 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "URB VILLA FONTANA",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "SAN JUAN": [
+    {
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "BRAULIO DUENO COLON",
+      "area": "BAYAMON"
+    }
+  ]
 }

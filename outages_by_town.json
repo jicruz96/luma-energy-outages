@@ -2,25 +2,19 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "BO CAMARONES SEC PIEDRAS BLANC",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    }
-  ],
+  "GUAYNABO": [],
+  "SAN JUAN": [],
   "BAYAMON": [
     {
       "zone": "HATO TEJAS",
       "area": "BAYAMON"
     },
     {
-      "zone": "JUAN SANCHEZ",
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "PAJAROS",
       "area": "BAYAMON"
     }
   ]

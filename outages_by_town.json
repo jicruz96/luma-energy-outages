@@ -1,18 +1,21 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "Bo. San Anton",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "QUEBRADA NEGRITO",
+      "zone": "Bo. Quebrada Negrito",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "URB WONDERVILLE",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [
+    {
+      "zone": "BO AMELIA",
+      "area": "GUAYNABO"
+    },
     {
       "zone": "Carr. 836",
       "area": "GUAYNABO"
@@ -20,29 +23,29 @@
   ],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "Bo. Caimito Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     },
     {
       "zone": "PUEBLO",
       "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB HYDE PARK  AREAS PUBLICAS",
+      "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "EGIDA LOS CANTARES  HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
       "zone": "MINILLAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB ROYAL PALM",
       "area": "BAYAMON"
     }
   ]

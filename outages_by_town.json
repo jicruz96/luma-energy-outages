@@ -1,24 +1,25 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "CEDRO",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
+      "zone": "QUEBRADA NEGRITO",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [
+  "GUAYNABO": [
     {
-      "zone": "ALTURAS DE FAIR VIEW",
-      "area": "SAN JUAN"
+      "zone": "URB. GARDEN HILLS",
+      "area": "GUAYNABO"
     },
     {
-      "zone": "Ave. 65 De Infanteria",
+      "zone": "URB. MUÑOZ RIVERA",
+      "area": "GUAYNABO"
+    }
+  ],
+  "SAN JUAN": [
+    {
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     },
     {
@@ -26,11 +27,7 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB PUERTO NUEVO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB VILLA PRADES",
+      "zone": "URB SAN IGNACIO",
       "area": "SAN JUAN"
     }
   ],

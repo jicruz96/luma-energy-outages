@@ -1,21 +1,42 @@
 {
-  "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CATANO": [
     {
-      "zone": "QUEBRADA GRANDE",
-      "area": "TRUJILLO ALTO"
+      "zone": "URB PUB PR 52  VER 15-12",
+      "area": "CATANO"
     }
   ],
+  "CAROLINA": [
+    {
+      "zone": "ROLLING HILLS CAROLINA",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "URB GARDEN HILLS",
+      "zone": "Bo. Mamey",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "Bo. Sonadora",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "Bo.Guaraguao",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "SANTURCE",
+      "zone": "COND ATLANTIC PLAZA",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "EL CINCO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     }
   ],

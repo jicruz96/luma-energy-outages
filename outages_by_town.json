@@ -1,10 +1,5 @@
 {
-  "CATANO": [
-    {
-      "zone": "URB PUB PR 52  VER 15-12",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [
     {
       "zone": "ROLLING HILLS CAROLINA",
@@ -14,35 +9,23 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Bo. Mamey",
-      "area": "GUAYNABO"
-    },
-    {
       "zone": "Bo. Sonadora",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "Bo.Guaraguao",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "COND ATLANTIC PLAZA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "EL CINCO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "CAIMITO",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "HATO TEJAS",
+      "zone": "ROYAL PALM",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "SANTA OLAYA",
       "area": "BAYAMON"
     }
   ]

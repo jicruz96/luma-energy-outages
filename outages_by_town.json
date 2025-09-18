@@ -1,32 +1,8 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "ROLLING HILLS CAROLINA",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "Bo. Sonadora",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "CAIMITO",
-      "area": "SAN JUAN"
-    }
-  ],
-  "BAYAMON": [
-    {
-      "zone": "ROYAL PALM",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "SANTA OLAYA",
-      "area": "BAYAMON"
-    }
-  ]
+  "GUAYNABO": [],
+  "SAN JUAN": [],
+  "BAYAMON": []
 }

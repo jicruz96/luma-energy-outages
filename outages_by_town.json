@@ -1,13 +1,25 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "URB PARQUE ECUESTRE",
-      "area": "CAROLINA"
+      "zone": "Bo. Frailes",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "HATO NUEVO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "PUEBLO VIEJO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. CAPARRA HILLS",
+      "area": "GUAYNABO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
   "SAN JUAN": [
     {
       "zone": "MONACILLO URBANO",
@@ -18,7 +30,7 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB VILLA PRADES",
+      "zone": "TORTUGO",
       "area": "SAN JUAN"
     }
   ],

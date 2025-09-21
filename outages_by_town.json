@@ -1,36 +1,25 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "URB LAS VEGAS",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Bo. Frailes",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "HATO NUEVO",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "PUEBLO VIEJO",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. CAPARRA HILLS",
+      "zone": "COND MADRESELVA",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     },
     {
       "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "TORTUGO",
       "area": "SAN JUAN"
     }
   ],

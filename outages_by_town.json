@@ -5,23 +5,14 @@
       "area": "CATANO"
     }
   ],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "BARRAZAS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "COND MADRESELVA",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "MONACILLO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    }
-  ],
+  "GUAYNABO": [],
+  "SAN JUAN": [],
   "BAYAMON": []
 }

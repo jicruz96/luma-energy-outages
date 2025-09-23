@@ -1,18 +1,43 @@
 {
-  "CATANO": [
+  "CATANO": [],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "URB LAS VEGAS",
-      "area": "CATANO"
+      "zone": "CUEVAS",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "Urb. Wonderville",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "CAROLINA": [
-    {
-      "zone": "BARRAZAS",
-      "area": "CAROLINA"
-    }
-  ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "SAN JUAN": [
+    {
+      "zone": "CAIMITO BAJO/CAM. LOS ROMERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB EL PARAISO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "VILLAS DE SAN FCO PLAZA II",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

@@ -1,43 +1,17 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "CUEVAS",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "LA GLORIA",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "Urb. Wonderville",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO BAJO/CAM. LOS ROMERO",
+      "zone": "Ave. Roosevelt",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB EL PARAISO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "VILLAS DE SAN FCO PLAZA II",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

@@ -5,23 +5,15 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAM LOS BIGIO,CAIMITO ALTO",
+      "zone": "APT 103 BAJOS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CAPETILLO",
+      "zone": "BO LA BAYAMONESA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB CAPARRA TERRACE",
+      "zone": "SABANA LLANA SUR",
       "area": "SAN JUAN"
     }
   ],

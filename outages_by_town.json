@@ -1,19 +1,32 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "APT 103 BAJOS",
+      "zone": "Ave. Central",
       "area": "SAN JUAN"
     },
     {
-      "zone": "BO LA BAYAMONESA",
+      "zone": "BO CAIMITO CAM LOS COTTO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COND MADRID PLAZA II",
       "area": "SAN JUAN"
     },
     {
       "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA NAVARRA",
       "area": "SAN JUAN"
     }
   ],

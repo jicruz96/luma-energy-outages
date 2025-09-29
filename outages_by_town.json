@@ -1,11 +1,29 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "CAROLINA": [
+    {
+      "zone": "CACAO",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "ST. JUST",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Bo. Cupey Alto",
+      "zone": "Bda. Buena Vista H.Re",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Caimito Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Cupey Bajo",
       "area": "SAN JUAN"
     },
     {
@@ -13,29 +31,25 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO",
+      "zone": "URB EXT VILLA CAPRI",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "URB VENUS GARDENS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "RES EL PRADO AREAS COMUNES",
+      "zone": "URB VILLA NAVARRA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB LAS LOMAS",
+      "zone": "Urb. Borinquen Gardens",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB FOREST VIEW",
+      "zone": "URB ALTURAS RIO BAYAMON",
       "area": "BAYAMON"
     }
   ]

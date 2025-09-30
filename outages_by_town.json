@@ -2,7 +2,7 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "CACAO",
+      "zone": "CANGREJO ARRIBA",
       "area": "CAROLINA"
     }
   ],
@@ -15,23 +15,31 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Bda. Buena Vista H.Re",
+      "zone": "BO MORCELO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Bo. Caimito Alto",
+      "zone": "HATO REY SUR",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Bo. Cupey Bajo",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB EXT VILLA CAPRI",
+      "zone": "URB IND MARIO JULIA",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB IND TRES MONJITAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB LA RIVIERA",
       "area": "SAN JUAN"
     },
     {
@@ -39,18 +47,9 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB VILLA NAVARRA",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "Urb. Borinquen Gardens",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "URB ALTURAS RIO BAYAMON",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

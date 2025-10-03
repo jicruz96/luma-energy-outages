@@ -1,17 +1,39 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "URB VILLA COOPERATIVA",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "Bo. Frailes",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. ALTO APOLO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "HATO REY NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "QUEBRADA ARENAS",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "PAJAROS",
+      "zone": "URB VALLE BELLO/ESQ PALES MATO",
       "area": "BAYAMON"
     }
   ]

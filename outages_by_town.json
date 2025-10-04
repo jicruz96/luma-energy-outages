@@ -2,38 +2,16 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "URB VILLA COOPERATIVA",
+      "zone": "URB PUB SABANA ABAJO",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "Bo. Frailes",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. ALTO APOLO",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "HATO REY NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "QUEBRADA ARENAS",
-      "area": "SAN JUAN"
-    }
-  ],
+  "GUAYNABO": [],
+  "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "URB VALLE BELLO/ESQ PALES MATO",
+      "zone": "MINILLAS",
       "area": "BAYAMON"
     }
   ]

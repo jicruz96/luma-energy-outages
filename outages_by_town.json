@@ -1,18 +1,13 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "URB PUB SABANA ABAJO",
-      "area": "CAROLINA"
+      "zone": "Bo. Dos Bocas",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": [
-    {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

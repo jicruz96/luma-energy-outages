@@ -1,13 +1,31 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "Bo. Dos Bocas",
-      "area": "TRUJILLO ALTO"
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "SAN JUAN": [
+    {
+      "zone": "Res. San Juan Bautista",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUERTO NUEVO",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "REXVILLE",
+      "area": "BAYAMON"
+    }
+  ]
 }

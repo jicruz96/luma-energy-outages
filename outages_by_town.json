@@ -10,21 +10,33 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Res. San Juan Bautista",
+      "zone": "BO CAIMITO CAM LOS COTTO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB PUERTO NUEVO",
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "ORIENTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Zona Industrial Julia",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "MINILLAS",
+      "zone": "PAJAROS",
       "area": "BAYAMON"
     },
     {
-      "zone": "REXVILLE",
+      "zone": "URB MAGNOLIA GARDENS",
       "area": "BAYAMON"
     }
   ]

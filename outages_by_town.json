@@ -2,15 +2,45 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "HOYO MULAS",
+      "zone": "Bo. San Anton",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "COND REEF TOWERS",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "EL CERRO BO. ASOMANTE",
       "area": "CAROLINA"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "URB VILLAS DE CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [
+    {
+      "zone": "SANTA ROSA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "BO CAIMITO CAM LOS COTTO",
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     },
     {
@@ -18,26 +48,9 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "ORIENTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Zona Industrial Julia",
+      "zone": "SABANA LLANA SUR",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB MAGNOLIA GARDENS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

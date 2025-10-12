@@ -2,46 +2,37 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "URB LOS COLOBOS PARK",
+      "zone": "URB VISTAMAR  *NO CKS*",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "SANTA ROSA",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Ave. Roosevelt",
+      "zone": "COND SAN LUIS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB PUERTO NUEVO",
+      "zone": "HOSPITAL SAN GERARDO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB SAGRADO CORAZON",
+      "zone": "URB ROOSEVELT",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Viejo San Juan",
+      "zone": "Zona Portuaria",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BAYAMON",
+      "zone": "BO GUARAGUAO ARRIBA/CHORRERAS",
       "area": "BAYAMON"
     },
     {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "HATO TEJAS",
+      "zone": "DAJAOS",
       "area": "BAYAMON"
     },
     {
@@ -49,7 +40,7 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "PAJAROS",
+      "zone": "URB EXT QUINTAS DE FLAMINGO",
       "area": "BAYAMON"
     },
     {
@@ -57,7 +48,11 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "VILLA TAINA BO. MINILLAS",
+      "zone": "URB LOMAS VERDES",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB ROYAL TOWN EXT",
       "area": "BAYAMON"
     }
   ]

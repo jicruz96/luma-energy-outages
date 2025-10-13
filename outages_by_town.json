@@ -1,58 +1,34 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "URB VISTAMAR  *NO CKS*",
-      "area": "CAROLINA"
+      "zone": "GUAYNABO",
+      "area": "GUAYNABO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "COND SAN LUIS",
+      "zone": "BO CAIMITO CAM LOS COTTO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "HOSPITAL SAN GERARDO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB ROOSEVELT",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Zona Portuaria",
+      "zone": "SAN JUAN ANTIGUO",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO GUARAGUAO ARRIBA/CHORRERAS",
-      "area": "BAYAMON"
-    },
-    {
       "zone": "DAJAOS",
       "area": "BAYAMON"
     },
     {
+      "zone": "JUAN SANCHEZ",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "MINILLAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB EXT QUINTAS DE FLAMINGO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB EXT VILLA RICA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB LOMAS VERDES",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB ROYAL TOWN EXT",
       "area": "BAYAMON"
     }
   ]

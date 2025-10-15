@@ -1,31 +1,26 @@
 {
-  "CATANO": [
-    {
-      "zone": "JUANA MATOS",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "TRUJILLO ALTO": [
     {
-      "zone": "URB. GARDEN HILLS",
-      "area": "GUAYNABO"
+      "zone": "URB ROUND HILLS",
+      "area": "TRUJILLO ALTO"
     }
   ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
+      "zone": "SAN JUAN ANTIGUO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SAN JUAN ANTIGUO",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "PAJAROS",
+      "zone": "CERRO GORDO",
       "area": "BAYAMON"
     }
   ]

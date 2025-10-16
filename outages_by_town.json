@@ -1,27 +1,29 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "URB ROUND HILLS",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "RES LAS CASAS BO OBRERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "SAN JUAN ANTIGUO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
+      "zone": "URB LA RIVIERA",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

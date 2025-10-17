@@ -5,25 +5,26 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "RES LAS CASAS BO OBRERO",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SABANA LLANA NORTE",
+      "zone": "ORIENTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SAN JUAN ANTIGUO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LA RIVIERA",
+      "zone": "URB EL REMANSO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "URB LOMAS VERDES",
+      "area": "BAYAMON"
+    }
+  ]
 }

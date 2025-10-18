@@ -1,11 +1,25 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "CAROLINA": [
+    {
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Dos Bocas",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "COND MONTEFLORES *AREAS COMU**",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CUPEY ALTO/CAMINO LOS MARREROS",
       "area": "SAN JUAN"
     },
     {
@@ -13,17 +27,13 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "ORIENTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB EL REMANSO",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "URB LOMAS VERDES",
+      "zone": "Bo. Guaraguao Arriba",
       "area": "BAYAMON"
     }
   ]

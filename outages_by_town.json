@@ -1,39 +1,55 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
+    {
+      "zone": "BO QUEBDA NEGRITO",
+      "area": "TRUJILLO ALTO"
+    },
     {
       "zone": "Bo. Dos Bocas",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB. LOS FRAILES",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "COND MONTEFLORES *AREAS COMU**",
+      "zone": "Bo. Vista Alegre",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY ALTO/CAMINO LOS MARREROS",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "CUPEY ALTO, CAM DON DIEGO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "EL CINCO",
       "area": "SAN JUAN"
     },
     {
       "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB LOS MAESTROS",
+      "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "Bo. Guaraguao Arriba",
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB ROYAL TOWN",
       "area": "BAYAMON"
     }
   ]

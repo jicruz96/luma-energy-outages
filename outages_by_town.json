@@ -1,36 +1,22 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "EL CERRO BO. ASOMANTE",
-      "area": "CAROLINA"
-    }
-  ],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
-  "GUAYNABO": [
-    {
-      "zone": "SONADORA",
-      "area": "GUAYNABO"
-    }
-  ],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "HILL BROTHERS SAB LLANA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB. PARQUE MEDITERRANEO",
+      "zone": "BUENA VISTA / BO OBRERO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "GUARAGUAO ARRIBA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "LAUREL MINILLAS WARD BAYAMON",
+      "area": "BAYAMON"
+    }
+  ]
 }

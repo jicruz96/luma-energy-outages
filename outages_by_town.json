@@ -1,22 +1,27 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB. PARQUE SAN PATRICIO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "BUENA VISTA / BO OBRERO",
+      "zone": "HOSPITAL SAN GERARDO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "ORIENTE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "GUARAGUAO ARRIBA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "LAUREL MINILLAS WARD BAYAMON",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

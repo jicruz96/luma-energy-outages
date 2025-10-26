@@ -1,12 +1,12 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
+      "zone": "QUEBRADA NEGRITO",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
       "zone": "URB. PARQUE SAN PATRICIO",
@@ -15,13 +15,26 @@
   ],
   "SAN JUAN": [
     {
-      "zone": "HOSPITAL SAN GERARDO",
+      "zone": "Ave. De Diego",
       "area": "SAN JUAN"
     },
     {
-      "zone": "ORIENTE",
+      "zone": "BDA ISRAEL",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Cupey Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "DAJAOS",
+      "area": "BAYAMON"
+    }
+  ]
 }

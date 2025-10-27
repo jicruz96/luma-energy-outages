@@ -1,39 +1,55 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "QUEBRADA NEGRITO",
-      "area": "TRUJILLO ALTO"
+      "zone": "PONDEROSA DE PlAZA CENTRO",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "URB. PARQUE SAN PATRICIO",
+      "zone": "BO SANTA ROSA III",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Ave. De Diego",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "BDA ISRAEL",
+      "zone": "HATO REY SUR",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Bo. Cupey Alto",
+      "zone": "ORIENTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB ALTAMESA   NO CK",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "DAJAOS",
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB FLAMINGO TERRACE",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB MONTE CLARO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB RIVERVIEW",
       "area": "BAYAMON"
     }
   ]

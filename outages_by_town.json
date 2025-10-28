@@ -1,55 +1,22 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "PONDEROSA DE PlAZA CENTRO",
-      "area": "CAROLINA"
+      "zone": "URB COLINAS DE FAIR VIEW",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "BO SANTA ROSA III",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "HATO REY SUR",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "ORIENTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB ALTAMESA   NO CK",
+      "zone": "Ave. Munoz RIvera",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB FLAMINGO TERRACE",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB MONTE CLARO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB RIVERVIEW",
+      "zone": "URB SIERRA BAYAMON",
       "area": "BAYAMON"
     }
   ]

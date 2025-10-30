@@ -1,32 +1,17 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
+  "SAN JUAN": [
     {
-      "zone": "CACAO",
-      "area": "CAROLINA"
-    }
-  ],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "URB COLINAS DE FAIR VIEW",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
-  "GUAYNABO": [
-    {
-      "zone": "Bo. Camarones",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [],
-  "BAYAMON": [
-    {
-      "zone": "BAYAMON",
-      "area": "BAYAMON"
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
     },
     {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
+      "zone": "Urb. Country Club 1 Se",
+      "area": "SAN JUAN"
     }
-  ]
+  ],
+  "BAYAMON": []
 }

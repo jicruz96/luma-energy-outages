@@ -1,17 +1,37 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "PALO SECO REST EL VIGIA",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Urb. Mans. San Rafael",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [
+    {
+      "zone": "BO HATO NUEVO SEC FELICIA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB EXT VILLA CAPRI",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB VALLE VERDE",
+      "area": "BAYAMON"
+    }
+  ]
 }

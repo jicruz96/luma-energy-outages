@@ -1,13 +1,18 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "URB JARDINES DE BORINQUEN",
-      "area": "CAROLINA"
+      "zone": "Bo. Hato Nuevo",
+      "area": "GUAYNABO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "DAJAOS LAS TORONJAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

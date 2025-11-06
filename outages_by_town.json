@@ -2,16 +2,11 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "Bo. Hato Nuevo",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "DAJAOS LAS TORONJAS",
+      "zone": "URB SIERRA BAYAMON",
       "area": "BAYAMON"
     }
   ]

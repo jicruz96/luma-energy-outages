@@ -1,20 +1,17 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "RES NTRA SRA DE COVADONGA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB SANTA MONICA",
+      "zone": "Urb. Lomas Verdes",
       "area": "BAYAMON"
     }
   ]

@@ -2,13 +2,12 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "URB. MONTE OLIMPO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
+    {
+      "zone": "Ave. 65 De Infanteria",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"

@@ -1,18 +1,22 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [
+  "TRUJILLO ALTO": [
     {
-      "zone": "ORIENTE",
-      "area": "SAN JUAN"
+      "zone": "URB ROUND HILL",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "BAYAMON": [
+  "GUAYNABO": [
     {
-      "zone": "BO MINILLAS/SECT VERGARA",
-      "area": "BAYAMON"
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "SANTA ROSA",
+      "area": "GUAYNABO"
     }
-  ]
+  ],
+  "SAN JUAN": [],
+  "BAYAMON": []
 }

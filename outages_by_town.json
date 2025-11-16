@@ -3,11 +3,11 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [
+  "SAN JUAN": [],
+  "BAYAMON": [
     {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
     }
-  ],
-  "BAYAMON": []
+  ]
 }

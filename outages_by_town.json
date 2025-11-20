@@ -5,14 +5,13 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "URB FLORAL PARK",
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUERTO NUEVO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

@@ -1,24 +1,21 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "CANGREJO ARRIBA",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
-      "zone": "Urb. Villas De Caney",
+      "zone": "CUEVAS",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Calle Mc Leary",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB FAIR VIEW",
+      "zone": "VILLA PALMERAS *HAY ICC*",
       "area": "SAN JUAN"
     }
   ],

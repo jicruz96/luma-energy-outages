@@ -1,11 +1,6 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "CANGREJO ARRIBA",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
       "zone": "CUEVAS",
@@ -19,5 +14,10 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    }
+  ]
 }

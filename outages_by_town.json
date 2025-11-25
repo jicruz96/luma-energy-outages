@@ -2,10 +2,23 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "BO ALEJANDRINO SECT MELIA",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "LOAMS DEL SOL",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA NORTE",
+      "zone": "RIO PIEDRAS HEIGHTS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB COOP UTT",
       "area": "SAN JUAN"
     }
   ],

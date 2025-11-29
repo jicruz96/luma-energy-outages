@@ -1,20 +1,32 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
+      "zone": "LA GLORIA",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "EXT COLLEGE PARK",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB HORIZONS",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    },
     {
       "zone": "URB VILLA VERDE",
       "area": "BAYAMON"

@@ -1,15 +1,20 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Bo. Tortugo",
+      "zone": "Bo. Monacillos",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SABANA LLANA SUR",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     }
   ],

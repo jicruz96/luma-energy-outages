@@ -1,20 +1,19 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Bo. Monacillos",
+      "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "SAN JUAN ANTIGUO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB REPARTO SEVILLA",
       "area": "SAN JUAN"
     }
   ],

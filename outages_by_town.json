@@ -2,18 +2,19 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "Urb. San Patricio",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "HATO REY NORTE",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
       "zone": "SAN JUAN ANTIGUO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB REPARTO SEVILLA",
       "area": "SAN JUAN"
     }
   ],

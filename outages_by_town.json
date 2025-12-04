@@ -1,22 +1,23 @@
 {
-  "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CATANO": [
     {
-      "zone": "Urb. San Patricio",
-      "area": "GUAYNABO"
+      "zone": "Bo. Las Vegas Bajo Cos",
+      "area": "CATANO"
     }
   ],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
       "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
-    },
-    {
-      "zone": "SAN JUAN ANTIGUO",
-      "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "DAJAOS",
+      "area": "BAYAMON"
+    }
+  ]
 }

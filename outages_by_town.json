@@ -1,17 +1,27 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BO CARRAIZO ALTO PUEBLITO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SAN JUAN ANTIGUO",
+      "zone": "Isla Grande",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
+      "zone": "URB COLINAS DE MONTECARLO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "REPTO VALENCIA",
+      "area": "BAYAMON"
+    }
+  ]
 }

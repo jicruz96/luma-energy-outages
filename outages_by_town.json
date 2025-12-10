@@ -1,11 +1,24 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BDA SANTO DOMINGO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SAN JUAN ANTIGUO",
+      "zone": "LOCAL B",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Las Lomas",
       "area": "SAN JUAN"
     }
   ],

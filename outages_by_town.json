@@ -1,26 +1,13 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "BDA SANTO DOMINGO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "LA GLORIA",
-      "area": "TRUJILLO ALTO"
+      "zone": "Cond. Beverly Hills Court",
+      "area": "GUAYNABO"
     }
   ],
-  "GUAYNABO": [],
-  "SAN JUAN": [
-    {
-      "zone": "LOCAL B",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Las Lomas",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": []
 }

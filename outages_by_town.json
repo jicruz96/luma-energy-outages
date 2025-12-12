@@ -4,10 +4,24 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Cond. Beverly Hills Court",
+      "zone": "URB. PONCE DE LEON",
       "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "SAN JUAN": [
+    {
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "URB SANTA ELENITA",
+      "area": "BAYAMON"
+    }
+  ]
 }

@@ -1,26 +1,26 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CAROLINA": [
     {
-      "zone": "URB. PONCE DE LEON",
-      "area": "GUAYNABO"
+      "zone": "URB REPTO ROSA MARIA",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "CUPEY",
+      "zone": "COND ALTOMONTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "URB SANTA ELENITA",
+      "zone": "Bo. Dajaos",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "CAMINO ROSSY N3",
       "area": "BAYAMON"
     }
   ]

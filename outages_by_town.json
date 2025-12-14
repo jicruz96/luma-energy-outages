@@ -1,26 +1,25 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "URB REPTO ROSA MARIA",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "COND ALTOMONTE",
+      "zone": "QUEBRADA ARENAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB LAS AMERICAS",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "Bo. Dajaos",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CAMINO ROSSY N3",
+      "zone": "JUAN SANCHEZ",
       "area": "BAYAMON"
     }
   ]

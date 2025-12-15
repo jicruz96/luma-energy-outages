@@ -1,26 +1,18 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BO QDA GRANDE",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "QUEBRADA ARENAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LAS AMERICAS",
+      "zone": "URB SAGRADO CORAZON",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "JUAN SANCHEZ",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

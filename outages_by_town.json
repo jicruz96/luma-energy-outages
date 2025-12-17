@@ -1,8 +1,22 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "JUAN SANCHEZ",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "SANTA OLAYA",
+      "area": "BAYAMON"
+    }
+  ]
 }

@@ -1,28 +1,18 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
       "zone": "Bo. Matienzo",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
+  "GUAYNABO": [],
+  "SAN JUAN": [
     {
-      "zone": "GUARAGUAO",
-      "area": "GUAYNABO"
+      "zone": "COND CASTILLO 60",
+      "area": "SAN JUAN"
     }
   ],
-  "SAN JUAN": [],
-  "BAYAMON": [
-    {
-      "zone": "JUAN SANCHEZ",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

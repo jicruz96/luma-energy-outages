@@ -5,24 +5,26 @@
     {
       "zone": "Bo. Matienzo",
       "area": "TRUJILLO ALTO"
-    }
-  ],
-  "GUAYNABO": [
+    },
     {
-      "zone": "SANTA ROSA",
-      "area": "GUAYNABO"
+      "zone": "DOS BOCAS",
+      "area": "TRUJILLO ALTO"
     }
   ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA NEVAREZ",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

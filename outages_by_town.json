@@ -1,31 +1,17 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "URB VILLA FONTANA CQ 89",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "RIO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA NORTE",
+      "zone": "SABANA LLANA SUR",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "Urb. Villa Del Rio",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "Zona Ind. Lucchetti",
+      "zone": "URB RIO HONDO",
       "area": "BAYAMON"
     }
   ]

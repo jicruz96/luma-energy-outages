@@ -1,12 +1,17 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "WEST INDUSTRIAL PARK",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "Bo. Juan Sanchez",
+      "zone": "PAJAROS",
       "area": "BAYAMON"
     }
   ]

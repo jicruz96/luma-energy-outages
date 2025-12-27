@@ -1,18 +1,17 @@
 {
-  "CATANO": [
-    {
-      "zone": "WEST INDUSTRIAL PARK",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": [
+  "SAN JUAN": [
     {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA HUCAR",
+      "area": "SAN JUAN"
     }
-  ]
+  ],
+  "BAYAMON": []
 }

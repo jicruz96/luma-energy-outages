@@ -1,18 +1,22 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "TRUJILLO BAJO",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
       "zone": "CUPEY",
       "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "Bo. Juan Sanchez",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

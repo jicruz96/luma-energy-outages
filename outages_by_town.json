@@ -1,25 +1,34 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CAROLINA": [
     {
-      "zone": "BO CAMARONES/ ALTOS DE CAMARON",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB SAN PATRICIO",
-      "area": "GUAYNABO"
+      "zone": "SAN ANTON",
+      "area": "CAROLINA"
     }
   ],
-  "SAN JUAN": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
+  "SAN JUAN": [
+    {
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": [
+    {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
     {
       "zone": "HATO TEJAS",
       "area": "BAYAMON"
     },
     {
-      "zone": "URB VISTA BELLA",
+      "zone": "MINILLAS",
       "area": "BAYAMON"
     }
   ]

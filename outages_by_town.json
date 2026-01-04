@@ -1,8 +1,27 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "CUEVAS",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "URB CIUDAD UNIVERSITARIA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "SAN JUAN": [
+    {
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "GUARAGUAO ABAJO",
+      "area": "BAYAMON"
+    }
+  ]
 }

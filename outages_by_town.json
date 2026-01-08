@@ -1,16 +1,21 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "CANOVANILLAS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "URB. TORRIMAR",
+      "zone": "RES R MARTINEZ NADAL",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "URB RIO PIEDRAS HEIGHTS",
+      "zone": "TORTUGO",
       "area": "SAN JUAN"
     }
   ],

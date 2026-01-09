@@ -1,21 +1,11 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "CANOVANILLAS",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "RES R MARTINEZ NADAL",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "TORTUGO",
+      "zone": "HATO REY SUR",
       "area": "SAN JUAN"
     }
   ],

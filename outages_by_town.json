@@ -3,6 +3,19 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "RES LAS DALIAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB RIO PIOEDRAS HEIGHT",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "VIEJO SAN JUAN",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": []
 }

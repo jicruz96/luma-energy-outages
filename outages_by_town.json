@@ -2,18 +2,15 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "HATO NUEVO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "RES LAS DALIAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB RIO PIOEDRAS HEIGHT",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "VIEJO SAN JUAN",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],

@@ -1,13 +1,17 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "BARRAZAS",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB BAYAMON GARDENS",
+      "area": "BAYAMON"
+    }
+  ]
 }

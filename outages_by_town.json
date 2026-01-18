@@ -2,25 +2,36 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "BO GUARAGUAO/SEC JUANA RAMOS",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
+      "zone": "AREAS COMUNES",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "QUEBRADA ARENAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SAN JUAN ANTIGUO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA CAPRI",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO NUEVO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "HATO TEJAS",
+      "zone": "BO NUEVO SEC LA CUARTA",
       "area": "BAYAMON"
     },
     {

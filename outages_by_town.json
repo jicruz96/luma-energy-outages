@@ -1,8 +1,27 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "CUEVAS",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "QUEBRADA NEGRITO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [
+    {
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    }
+  ],
+  "SAN JUAN": [
+    {
+      "zone": "URB VILLA GRANADA",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": []
 }

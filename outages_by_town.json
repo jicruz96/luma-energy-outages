@@ -3,25 +3,38 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "CUEVAS",
-      "area": "TRUJILLO ALTO"
-    },
-    {
       "zone": "QUEBRADA NEGRITO",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [
     {
-      "zone": "FRAILES",
+      "zone": "SANTA ROSA",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "URB VILLA GRANADA",
+      "zone": "BO QUEBRADA",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Villa Palmeras Sa",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CAIMITO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Urb. Santa Juanita",
+      "area": "BAYAMON"
+    }
+  ]
 }

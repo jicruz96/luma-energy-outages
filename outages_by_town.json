@@ -1,34 +1,34 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "QUEBRADA NEGRITO",
-      "area": "TRUJILLO ALTO"
+      "zone": "Bo. Canovanillas",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAMINO MARCELO RIO PIEDRAS",
+      "zone": "COND CHALETS D' LA RIVIERA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "HATO REY NORTE",
+      "zone": "RES JARDINES DE BERWIND",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "CERRO GORDO",
+      "zone": "BO PAJAROS",
       "area": "BAYAMON"
     },
     {
-      "zone": "URB SANTA JUANITA",
+      "zone": "HATO TEJAS",
       "area": "BAYAMON"
     },
     {
-      "zone": "VILLA ESPA{A BAYAMON",
+      "zone": "MINILLAS",
       "area": "BAYAMON"
     }
   ]

@@ -1,34 +1,22 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "Bo. Canovanillas",
-      "area": "CAROLINA"
+      "zone": "URB TORRIMAR",
+      "area": "GUAYNABO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "COND CHALETS D' LA RIVIERA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "RES JARDINES DE BERWIND",
+      "zone": "HATO REY CENTRAL",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO PAJAROS",
-      "area": "BAYAMON"
-    },
-    {
       "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "MINILLAS",
       "area": "BAYAMON"
     }
   ]

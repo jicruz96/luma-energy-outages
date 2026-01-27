@@ -5,14 +5,9 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "HATO REY CENTRAL",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

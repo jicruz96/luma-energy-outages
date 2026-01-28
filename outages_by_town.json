@@ -5,7 +5,15 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SANTURCE",
+      "zone": "COND PATIO ESPANOL",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "HATO REY NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB BALDRICH",
       "area": "SAN JUAN"
     }
   ],

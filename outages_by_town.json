@@ -5,17 +5,18 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "COND PATIO ESPANOL",
+      "zone": "Isla Grande",
       "area": "SAN JUAN"
     },
     {
-      "zone": "HATO REY NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB BALDRICH",
+      "zone": "URB COUNTRY CLUB",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "URB EXTENSION VILLA RICA",
+      "area": "BAYAMON"
+    }
+  ]
 }

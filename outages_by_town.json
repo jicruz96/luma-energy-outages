@@ -9,13 +9,21 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB COUNTRY CLUB",
+      "zone": "ORIENTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "URB EXTENSION VILLA RICA",
+      "zone": "BO CERRO GORDO SEC AVILES",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "JUAN SANCHEZ",
       "area": "BAYAMON"
     }
   ]

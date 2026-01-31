@@ -2,29 +2,17 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "Sector Canta Gallo",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "Isla Grande",
       "area": "SAN JUAN"
-    },
-    {
-      "zone": "ORIENTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BO CERRO GORDO SEC AVILES",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "JUAN SANCHEZ",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

@@ -2,17 +2,41 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "Sector Canta Gallo",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
+    {
+      "zone": "CENTRO COMERCIAL ALTO APOLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COND CONDADO 75",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "EL CINCO",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "Isla Grande",
       "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    }
+  ]
 }

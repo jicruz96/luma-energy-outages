@@ -1,8 +1,13 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "Casco Urbano Catano",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [
     {
-      "zone": "MARTIN GONZALEZ",
+      "zone": "EL COMANDANTE",
       "area": "CAROLINA"
     }
   ],
@@ -15,55 +20,27 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY",
+      "zone": "URB COUNTRY CLUB",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "URB PARK GARDENS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SABANA LLANA NORTE",
+      "zone": "URB PUB LOPEZ SICARDO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB CAPARRA TERRACE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB EL VIGIA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB VENUS GARDENS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. San Agustin",
+      "zone": "URB SAN MARTIN",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
-    {
-      "zone": "BO PAJAROS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "Bo. Buena Vista",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    },
     {
       "zone": "PAJAROS",
       "area": "BAYAMON"

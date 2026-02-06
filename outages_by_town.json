@@ -1,16 +1,6 @@
 {
-  "CATANO": [
-    {
-      "zone": "Casco Urbano Catano",
-      "area": "CATANO"
-    }
-  ],
-  "CAROLINA": [
-    {
-      "zone": "EL COMANDANTE",
-      "area": "CAROLINA"
-    }
-  ],
+  "CATANO": [],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
       "zone": "CUEVAS",
@@ -20,29 +10,33 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
+      "zone": "Ave. Glassgow",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "BO OBRERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COND OCEAN PARK TOWER,SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB COUNTRY CLUB",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB PARK GARDENS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB PUB LOPEZ SICARDO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB SAN MARTIN",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "PAJAROS",
+      "zone": "GUARAGUAO ARRIBA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "MINILLAS/LA FLORESTA",
       "area": "BAYAMON"
     }
   ]

@@ -3,40 +3,36 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "CUEVAS",
+      "zone": "Urb. Valle San Juan E",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Ave. Glassgow",
+      "zone": "Ave. Ponce De Leon",
       "area": "SAN JUAN"
     },
     {
-      "zone": "BO OBRERO",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "COND OCEAN PARK TOWER,SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
+      "zone": "URB EL COMANDANTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "GUARAGUAO ARRIBA",
+      "zone": "MINILLAS/LA FLORESTA",
       "area": "BAYAMON"
     },
     {
-      "zone": "MINILLAS/LA FLORESTA",
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB MIRAFLORES",
       "area": "BAYAMON"
     }
   ]

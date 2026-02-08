@@ -1,38 +1,35 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "Carr 874",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
-      "zone": "Urb. Valle San Juan E",
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "ST. JUST",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Ave. Ponce De Leon",
+      "zone": "SABANA LLANA SUR",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB EL COMANDANTE",
+      "zone": "URB COUNTRY CLUB",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
       "zone": "MINILLAS/LA FLORESTA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB MIRAFLORES",
       "area": "BAYAMON"
     }
   ]

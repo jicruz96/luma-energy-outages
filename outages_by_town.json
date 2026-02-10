@@ -1,29 +1,25 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "Bo. Santa Cruz",
-      "area": "CAROLINA"
+      "zone": "Bo. Las Cuevas",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "PUEBLO VIEJO",
+      "zone": "FRAILES",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "URB SANTA TERESITA",
+      "zone": "CAIMITO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB VILLA NEVAREZ",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Las Américas",
+      "zone": "ESQ LAS PALMAS",
       "area": "SAN JUAN"
     }
   ],

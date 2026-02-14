@@ -4,23 +4,19 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "URB. GARDEN HILLS NORTE",
+      "zone": "Ave. Martinez Nadal",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. PARKVILLE",
       "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [
+  "SAN JUAN": [],
+  "BAYAMON": [
     {
-      "zone": "Ave. Fernandez Juncos",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA SUR",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB HYDE PARK",
-      "area": "SAN JUAN"
+      "zone": "URB SANTA JUANITA",
+      "area": "BAYAMON"
     }
-  ],
-  "BAYAMON": []
+  ]
 }

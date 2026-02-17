@@ -2,24 +2,32 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "CACAO",
+      "zone": "BARRAZAS",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "SANTA ROSA",
+      "zone": "URB. GARDEN HILLS OESTE",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "HATO REY NORTE",
+      "zone": "SABANA LLANA SUR",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB LAS LOMAS",
+      "zone": "URB HILLSIDE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUERTO NUEVO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA NEVAREZ",
       "area": "SAN JUAN"
     }
   ],

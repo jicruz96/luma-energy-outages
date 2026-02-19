@@ -1,0 +1,26 @@
+{
+  "CATANO": [],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
+    {
+      "zone": "BO SONADORA",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. GARDEN HILLS",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. GARDEN HILLS NORTE",
+      "area": "GUAYNABO"
+    }
+  ],
+  "SAN JUAN": [
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": []
+}

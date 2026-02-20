@@ -4,21 +4,21 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "BO SONADORA",
+      "zone": "BO SONADORA ALTA SEC EL MANGO",
       "area": "GUAYNABO"
     },
     {
-      "zone": "URB. GARDEN HILLS",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. GARDEN HILLS NORTE",
+      "zone": "CAMARONES CTRO/SEC LOS CABELLO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],

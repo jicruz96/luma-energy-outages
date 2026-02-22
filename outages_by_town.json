@@ -1,17 +1,28 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "Bo. San Anton",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "MARTIN GONZALEZ",
-      "area": "CAROLINA"
+      "zone": "Bo. Las Cuevas",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "GUAYNABO": [
+    {
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    }
+  ],
+  "SAN JUAN": [
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "DAJAOS",
+      "area": "BAYAMON"
+    }
+  ]
 }

@@ -2,17 +2,17 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "PUEBLO VIEJO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SANTURCE",
+      "zone": "URB VILLA NAVARRA",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "Bo. Guaraguao Abajo",
+      "area": "BAYAMON"
+    }
+  ]
 }

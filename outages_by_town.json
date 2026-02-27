@@ -2,17 +2,12 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "GUAYNABO": [],
+  "SAN JUAN": [],
+  "BAYAMON": [
     {
-      "zone": "Bo. Juan Domingo",
-      "area": "GUAYNABO"
+      "zone": "URB VILLA CONTESSA",
+      "area": "BAYAMON"
     }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    }
-  ],
-  "BAYAMON": []
+  ]
 }

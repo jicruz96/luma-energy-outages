@@ -2,12 +2,12 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": [
+  "GUAYNABO": [
     {
-      "zone": "URB VILLA CONTESSA",
-      "area": "BAYAMON"
+      "zone": "URB GARDEN HILLS SUR",
+      "area": "GUAYNABO"
     }
-  ]
+  ],
+  "SAN JUAN": [],
+  "BAYAMON": []
 }

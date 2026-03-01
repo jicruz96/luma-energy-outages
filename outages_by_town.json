@@ -2,12 +2,33 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "GUAYNABO": [],
+  "SAN JUAN": [
     {
-      "zone": "URB GARDEN HILLS SUR",
-      "area": "GUAYNABO"
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB OCEAN PARK",
+      "area": "SAN JUAN"
     }
   ],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BUENA VISTA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "GUARAGUAO ARRIBA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB SANTA ROSA",
+      "area": "BAYAMON"
+    }
+  ]
 }

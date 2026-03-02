@@ -1,13 +1,18 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BO LA GLORIA SECT ALEMAN INT",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "Bo. Carraizo",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
     {
       "zone": "URB OCEAN PARK",
       "area": "SAN JUAN"
@@ -19,15 +24,7 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "GUARAGUAO ARRIBA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "MINILLAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB SANTA ROSA",
+      "zone": "CERRO GORDO",
       "area": "BAYAMON"
     }
   ]

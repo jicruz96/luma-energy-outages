@@ -3,29 +3,24 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "BO LA GLORIA SECT ALEMAN INT",
+      "zone": "AAA",
       "area": "TRUJILLO ALTO"
     },
     {
-      "zone": "Bo. Carraizo",
+      "zone": "BO LA GLORIA",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "URB OCEAN PARK",
+      "zone": "Bo. Caimito Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BUENA VISTA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

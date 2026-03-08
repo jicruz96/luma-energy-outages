@@ -2,16 +2,19 @@
   "CATANO": [],
   "CAROLINA": [
     {
+      "zone": "CACAO",
+      "area": "CAROLINA"
+    },
+    {
       "zone": "HOYO MULAS",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "URB EXT LOS ANGELES",
       "area": "CAROLINA"
     }
   ],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "ST. JUST",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
       "zone": "FRAILES",
@@ -20,9 +23,26 @@
   ],
   "SAN JUAN": [
     {
+      "zone": "BO CUPEY BAJO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Monacillos",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "MUELLE MIRAMAR",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "URB VILLA RICA",
+      "area": "BAYAMON"
+    }
+  ]
 }

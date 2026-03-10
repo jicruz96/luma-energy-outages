@@ -1,37 +1,11 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "ST. JUST",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
-  "GUAYNABO": [
-    {
-      "zone": "SANTA ROSA",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. PONCE DE LEON",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. RIVERSIDE",
-      "area": "GUAYNABO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Sector Morcelo",
+      "zone": "SABANA LLANA SUR",
       "area": "SAN JUAN"
     },
     {

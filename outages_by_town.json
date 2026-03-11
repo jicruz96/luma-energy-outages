@@ -2,14 +2,23 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "PUEBLO VIEJO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA SUR",
+      "zone": "CAIMITO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB SANTIAGO IGLESIAS",
+      "zone": "CONST FTE BOMBAS SANITARIAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     }
   ],

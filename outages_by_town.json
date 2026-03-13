@@ -5,13 +5,25 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
+      "zone": "BDA LAS MONJAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "URB SIERRA BAYAMON",
+      "zone": "Bo. Guaraguao Arriba",
       "area": "BAYAMON"
     }
   ]

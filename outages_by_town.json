@@ -1,26 +1,37 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
+  "SAN JUAN": [
     {
-      "zone": "CUEVAS",
-      "area": "TRUJILLO ALTO"
+      "zone": "BO JAGUEYES SECT LA BAYAMONESA",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "FRAILES",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "BO DAJAOS-REPRESA BO.NUEVO",
+      "zone": "Bo. Hato Tejas",
       "area": "BAYAMON"
     },
     {
-      "zone": "URB SANTA JUANITA",
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "DAJAOS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB SANTA MONICA  VER 1512",
       "area": "BAYAMON"
     }
   ]

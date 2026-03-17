@@ -2,28 +2,25 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "BO GUARAGUAO/SEC JUANA RAMOS",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "BO JAGUEYES SECT LA BAYAMONESA",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "ORIENTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "Bo. Hato Tejas",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "DAJAOS",
+      "zone": "GUARAGUAO ARRIBA",
       "area": "BAYAMON"
     },
     {
@@ -31,7 +28,7 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "URB SANTA MONICA  VER 1512",
+      "zone": "RIO PLANTATION BAYAMON",
       "area": "BAYAMON"
     }
   ]

@@ -1,16 +1,33 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CAROLINA": [
     {
-      "zone": "BO GUARAGUAO/SEC JUANA RAMOS",
-      "area": "GUAYNABO"
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "URB VILLAMAR",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Las Cuevas",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "ST. JUST",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "HATO REY SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     },
     {
@@ -20,15 +37,7 @@
   ],
   "BAYAMON": [
     {
-      "zone": "GUARAGUAO ARRIBA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "RIO PLANTATION BAYAMON",
+      "zone": "GUARAGUAO ARRIBA/SEC LOS GOMEZ",
       "area": "BAYAMON"
     }
   ]

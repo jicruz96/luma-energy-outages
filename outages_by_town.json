@@ -4,40 +4,24 @@
     {
       "zone": "SABANA ABAJO",
       "area": "CAROLINA"
-    },
-    {
-      "zone": "URB VILLAMAR",
-      "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [
     {
-      "zone": "Bo. Las Cuevas",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "ST. JUST",
+      "zone": "QUEBRADA GRANDE",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "HATO REY SUR",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "MONACILLO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "ORIENTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "GUARAGUAO ARRIBA/SEC LOS GOMEZ",
+      "zone": "URB. RIVERVIEW",
       "area": "BAYAMON"
     }
   ]

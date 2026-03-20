@@ -1,14 +1,9 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "QUEBRADA GRANDE",
+      "zone": "Bo. Carraizo",
       "area": "TRUJILLO ALTO"
     }
   ],
@@ -21,7 +16,11 @@
   ],
   "BAYAMON": [
     {
-      "zone": "URB. RIVERVIEW",
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB SANTA ROSA",
       "area": "BAYAMON"
     }
   ]

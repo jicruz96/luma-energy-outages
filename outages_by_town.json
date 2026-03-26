@@ -2,21 +2,13 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "CACAO",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "Urb. Country Club 4 Se",
+      "zone": "Bo. Martin Gonzalez",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [
     {
-      "zone": "CARRAIZO",
+      "zone": "CAMINO JUAN RAMOS BO CARRAIZO",
       "area": "TRUJILLO ALTO"
     }
   ],
@@ -24,16 +16,41 @@
     {
       "zone": "GUAYNABO",
       "area": "GUAYNABO"
-    },
-    {
-      "zone": "MAMEY",
-      "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "HATO REY NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "QUEBRADA ARENAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": [
     {
       "zone": "GUARAGUAO ABAJO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "MINILLAS BAYAMON",
       "area": "BAYAMON"
     }
   ]

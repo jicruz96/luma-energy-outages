@@ -1,39 +1,13 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "SAN ANTON",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "URB VILLA CAROLINA *15-12*",
-      "area": "CAROLINA"
+      "zone": "Bo. Matienzo",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB CAPARRA TERRACE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB PUERTO NUEVO",
-      "area": "SAN JUAN"
-    }
-  ],
-  "BAYAMON": [
-    {
-      "zone": "BUENA VISTA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CERRO GORDO/SECTOR RDZ ACEVEDO",
-      "area": "BAYAMON"
-    }
-  ]
+  "SAN JUAN": [],
+  "BAYAMON": []
 }

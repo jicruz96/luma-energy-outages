@@ -1,21 +1,26 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Carraizo",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "SEA VIEW BY THE SEA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB PUERTO NUEVO",
+      "zone": "TORTUGO",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "URB MIRAFLORES",
+      "zone": "BO GUARAGUAO ARRIBA",
       "area": "BAYAMON"
     }
   ]

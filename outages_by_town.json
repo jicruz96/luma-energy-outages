@@ -3,25 +3,16 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "Bo. Carraizo",
+      "zone": "Bo. Quebrada Grande",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SEA VIEW BY THE SEA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "TORTUGO",
+      "zone": "SAN JUAN PR  00912-0000",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BO GUARAGUAO ARRIBA",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

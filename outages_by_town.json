@@ -1,16 +1,19 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "Bo. Quebrada Grande",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SAN JUAN PR  00912-0000",
+      "zone": "COND PORTAL DON JUAN",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PEREZ MORRIS",
       "area": "SAN JUAN"
     }
   ],

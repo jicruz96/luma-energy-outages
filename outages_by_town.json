@@ -1,21 +1,31 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "URB VILLA CAROLINA",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "COND PORTAL DON JUAN",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB PEREZ MORRIS",
+      "zone": "URB SANTIAGO IGLESIAS",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BAYAMON",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    }
+  ]
 }

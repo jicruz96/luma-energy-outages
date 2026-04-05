@@ -1,13 +1,17 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
+  "SAN JUAN": [
     {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
+      "zone": "Ave. Américo Miranda",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
     }
   ],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
   "BAYAMON": []
 }

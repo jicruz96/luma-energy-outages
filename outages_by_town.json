@@ -5,11 +5,15 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Ave. Américo Miranda",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CAIMITO",
+      "zone": "TORTUGO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB ALTAMIRA",
       "area": "SAN JUAN"
     }
   ],

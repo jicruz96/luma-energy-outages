@@ -1,41 +1,23 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "QUEBRADA GRANDE",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "Sector Villa Margarita",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
-  "GUAYNABO": [
-    {
-      "zone": "BO SANTA ROSA 3 /LOS VILLEGAS",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. GARDEN HILLS SUR",
-      "area": "GUAYNABO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Bo. Caimito Alto",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "URB LAS LOMAS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "RES CORDERO DAVILA",
+      "zone": "URB ROOSEVELT",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB FAIR VIEW",
+      "zone": "Urb. Bosque Real",
       "area": "SAN JUAN"
     }
   ],

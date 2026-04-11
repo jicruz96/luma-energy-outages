@@ -1,28 +1,30 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "Carr 887",
-      "area": "CAROLINA"
+      "zone": "BO LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "CUEVAS",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "GUAYNABO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "ESQ LAS PALMAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB MONTECARLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Floral Park HR",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "JUAN SANCHEZ",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

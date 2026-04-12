@@ -1,28 +1,23 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "BO LA GLORIA",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "CUEVAS",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "ESQ LAS PALMAS",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB MONTECARLO",
+      "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Urb. Floral Park HR",
+      "zone": "SAN JUAN CHALETS/ BOMBA SANITA",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA PRADES",
       "area": "SAN JUAN"
     }
   ],

@@ -3,23 +3,6 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [
-    {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "HATO REY NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SAN JUAN CHALETS/ BOMBA SANITA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB VILLA PRADES",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": []
 }

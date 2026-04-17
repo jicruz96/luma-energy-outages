@@ -1,26 +1,30 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CAROLINA": [
     {
-      "zone": "RIO",
-      "area": "GUAYNABO"
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
     },
     {
-      "zone": "SANTA ROSA",
-      "area": "GUAYNABO"
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "TORTUGO",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO DAJAOS",
+      "zone": "GUARAGUAO ABAJO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "SANTA OLAYA",
       "area": "BAYAMON"
     }
   ]

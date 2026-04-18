@@ -1,30 +1,26 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
+      "zone": "URB ROUND HILLS",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SANTURCE",
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "GUARAGUAO ABAJO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "SANTA OLAYA",
+      "zone": "BO MINILLAS  SEC ADRIAN ORTIZ",
       "area": "BAYAMON"
     }
   ]

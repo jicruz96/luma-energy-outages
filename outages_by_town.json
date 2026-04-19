@@ -1,27 +1,23 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "URB COUNTRY CLUB",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
-      "zone": "URB ROUND HILLS",
+      "zone": "ST. JUST",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "MONACILLO URBANO",
+      "zone": "CONSTITUCION PUERTO NUEVO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BO MINILLAS  SEC ADRIAN ORTIZ",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

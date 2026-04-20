@@ -1,23 +1,8 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "URB COUNTRY CLUB",
-      "area": "CAROLINA"
-    }
-  ],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "ST. JUST",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [
-    {
-      "zone": "CONSTITUCION PUERTO NUEVO",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": []
 }

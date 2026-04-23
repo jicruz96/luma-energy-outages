@@ -2,16 +2,17 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "SABANA ABAJO",
+      "zone": "URB COUNTRY CLUB",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "CAMINO LOS BARROS",
+      "area": "BAYAMON"
+    }
+  ]
 }

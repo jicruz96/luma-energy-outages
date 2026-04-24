@@ -1,17 +1,17 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "URB COUNTRY CLUB",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "URB COUNTRY CLUB",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": [
     {
-      "zone": "CAMINO LOS BARROS",
+      "zone": "ENTRADA FRENTE HOGARES SEGUROS",
       "area": "BAYAMON"
     }
   ]

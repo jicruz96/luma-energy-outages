@@ -3,11 +3,11 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": [
+  "SAN JUAN": [
     {
-      "zone": "SANTA OLAYA",
-      "area": "BAYAMON"
+      "zone": "URB LOS MAESTROS BASE B",
+      "area": "SAN JUAN"
     }
-  ]
+  ],
+  "BAYAMON": []
 }

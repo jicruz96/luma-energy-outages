@@ -5,9 +5,14 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "URB LOS MAESTROS BASE B",
+      "zone": "URB FAIR VIEW",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "SANTA OLAYA",
+      "area": "BAYAMON"
+    }
+  ]
 }

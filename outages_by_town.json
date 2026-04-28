@@ -1,17 +1,22 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "ST. JUST",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "URB FAIR VIEW",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "SANTA OLAYA",
+      "zone": "URB VILLA CONTESSA",
       "area": "BAYAMON"
     }
   ]

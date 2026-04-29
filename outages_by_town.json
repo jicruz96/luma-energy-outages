@@ -1,22 +1,55 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "ST. JUST",
-      "area": "TRUJILLO ALTO"
+      "zone": "COSTA LINDA APTS/PLAYA FORTUNA",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
     }
   ],
-  "GUAYNABO": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
+    {
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "GUAYNABO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "PUEBLO VIEJO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB TORRIMAR",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "ORIENTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "URB VILLA CONTESSA",
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "SANTA OLAYA",
       "area": "BAYAMON"
     }
   ]

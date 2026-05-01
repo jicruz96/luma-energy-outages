@@ -2,37 +2,21 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "BO CAMARONES PIEDRAS BLAN",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "PUEBLO VIEJO",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "Sector Los Catalas",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Ave. Munoz RIvera",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "COND. PLAZA UNIVERSIDAD 2000",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
+      "zone": "URB HILLSIDE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    }
+  ]
 }

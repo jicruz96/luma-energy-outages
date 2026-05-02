@@ -2,20 +2,29 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB LOS PRADOS DEL MONTE",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "COND LAS LOMAS APTS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB HILLSIDE",
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB SANTA MARIA",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "PAJAROS",
+      "zone": "BUENA VISTA",
       "area": "BAYAMON"
     }
   ]

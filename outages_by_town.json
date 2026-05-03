@@ -1,30 +1,50 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "TRUJILLO ALTO": [
     {
-      "zone": "URB LOS PRADOS DEL MONTE",
-      "area": "GUAYNABO"
+      "zone": "Bo. Quebrada Grande",
+      "area": "TRUJILLO ALTO"
     }
   ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "COND LAS LOMAS APTS",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SABANA LLANA SUR",
+      "zone": "RESIDENCIAL SAN ANTONIO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB SANTA MARIA",
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB CROWN HILLS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB RPTO METROPOLITANO",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BUENA VISTA",
+      "zone": "DAJAOS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB HERMANAS DAVILA",
       "area": "BAYAMON"
     }
   ]

@@ -3,48 +3,23 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "Bo. Quebrada Grande",
+      "zone": "QUEBRADA GRANDE",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
-  "SAN JUAN": [
-    {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "RESIDENCIAL SAN ANTONIO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB CROWN HILLS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB RPTO METROPOLITANO",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": [
-    {
-      "zone": "DAJAOS",
-      "area": "BAYAMON"
-    },
     {
       "zone": "MINILLAS",
       "area": "BAYAMON"
     },
     {
-      "zone": "URB HERMANAS DAVILA",
+      "zone": "URB LOMAS VERDES",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB VILLA CONTESSA",
       "area": "BAYAMON"
     }
   ]

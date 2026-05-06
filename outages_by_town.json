@@ -1,37 +1,20 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "Bo. Carraizo",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "Bo. La Variante",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "Bo. Quebrada Grande",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "MAMEY",
+      "zone": "Bo. Camarones",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "CAMINO LOS CABRERA",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Apts. Colinas de San Juan",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Bo. Caimito Alto",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "CUPEY",
+      "zone": "Bo. Obrero Santurce",
       "area": "SAN JUAN"
     },
     {
@@ -47,13 +30,13 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "DAJAOS",
+      "zone": "URB VILLA ESPANA",
       "area": "BAYAMON"
     }
   ]

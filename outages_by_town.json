@@ -4,21 +4,17 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Bo. Camarones",
+      "zone": "Carr. 20",
       "area": "GUAYNABO"
     },
     {
-      "zone": "CAMINO LOS CABRERA",
+      "zone": "HATO NUEVO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Bo. Obrero Santurce",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "Bo. Caimito Alto",
       "area": "SAN JUAN"
     },
     {
@@ -26,18 +22,17 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "LA PERLA BLVD",
+      "zone": "PARQUE DE SAN IGNACIO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SABANA LLANA NORTE",
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB LA CUMBRE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "URB VILLA ESPANA",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

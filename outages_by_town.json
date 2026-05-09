@@ -1,18 +1,32 @@
 {
-  "CATANO": [],
-  "CAROLINA": [],
+  "CATANO": [
+    {
+      "zone": "TREN 67",
+      "area": "CATANO"
+    }
+  ],
+  "CAROLINA": [
+    {
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "GUAYNABO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "VILLAS DE PRADO ALTO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "Ave. De Diego",
+      "zone": "Bo. Caimito Alto",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BUENA VISTA",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

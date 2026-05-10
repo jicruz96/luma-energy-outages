@@ -1,32 +1,57 @@
 {
-  "CATANO": [
-    {
-      "zone": "TREN 67",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "HOYO MULAS",
+      "zone": "MARTIN GONZALEZ",
       "area": "CAROLINA"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "TRUJILLO ALTO": [
     {
-      "zone": "GUAYNABO",
-      "area": "GUAYNABO"
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
     },
     {
-      "zone": "VILLAS DE PRADO ALTO",
+      "zone": "DOS BOCAS",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "URB CIUDAD UNIVERSITARIA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [
+    {
+      "zone": "URB. PONCE DE LEON",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Bo. Caimito Alto",
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SEC LAS CURIAS,BO CUPEY ALTO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB LAS LOMAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA NEVAREZ  ** 15-12 **",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    }
+  ]
 }

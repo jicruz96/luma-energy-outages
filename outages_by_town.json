@@ -1,25 +1,28 @@
 {
-  "CATANO": [
-    {
-      "zone": "URB BAHIA",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "BO CARRAIZO/ LOCAL 3",
+      "zone": "ST. JUST",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "OCEAN PARK",
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA PRADES",
       "area": "SAN JUAN"
     }
   ],

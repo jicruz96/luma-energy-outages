@@ -1,12 +1,7 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "ST. JUST",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
@@ -14,15 +9,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "HATO REY NORTE",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
       "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB VILLA PRADES",
       "area": "SAN JUAN"
     }
   ],

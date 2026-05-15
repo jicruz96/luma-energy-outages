@@ -1,15 +1,24 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. La Gloria",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "Bo. Caimito Alto",
       "area": "SAN JUAN"
     },
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "Res. Manuel A. Pérez",
       "area": "SAN JUAN"
     },
     {

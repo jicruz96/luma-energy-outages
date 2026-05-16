@@ -7,24 +7,42 @@
       "area": "TRUJILLO ALTO"
     },
     {
-      "zone": "CARRAIZO",
+      "zone": "QDA NEGRITO T ALTO 00760",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB EXT VILLA CAPARRA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "Bo. Caimito Alto",
+      "zone": "SECT LA PLAYITA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Res. Manuel A. Pérez",
+      "zone": "URB COUNTRY CLUB",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
+      "zone": "Urb. Las Lomas",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO RIO PLANTATION BAYAMON",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Bo. Pajaros",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB FOREST VIEW",
+      "area": "BAYAMON"
+    }
+  ]
 }

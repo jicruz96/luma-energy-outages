@@ -3,46 +3,37 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "Bo. La Gloria",
+      "zone": "Bo. Matienzo",
       "area": "TRUJILLO ALTO"
     },
     {
-      "zone": "QDA NEGRITO T ALTO 00760",
+      "zone": "VILLA PLATANAL",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [
     {
-      "zone": "URB EXT VILLA CAPARRA",
+      "zone": "URB COLINAS METROPOLITANA",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "SECT LA PLAYITA",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB COUNTRY CLUB",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Urb. Las Lomas",
+      "zone": "ORIENTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUB MANUEL A PEREZ",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BO RIO PLANTATION BAYAMON",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "Bo. Pajaros",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB FOREST VIEW",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

@@ -3,35 +3,26 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "Bo. Matienzo",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "VILLA PLATANAL",
+      "zone": "ST. JUST",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "URB COLINAS METROPOLITANA",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "Ave. Central",
       "area": "SAN JUAN"
     },
     {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "ORIENTE",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
       "zone": "URB PUB MANUEL A PEREZ",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB SAN JOSE",
       "area": "SAN JUAN"
     }
   ],

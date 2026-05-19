@@ -3,26 +3,18 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "ST. JUST",
+      "zone": "CARRAIZO",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Ave. Central",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB PUB MANUEL A PEREZ",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB SAN JOSE",
+      "zone": "HATO REY SUR",
       "area": "SAN JUAN"
     }
   ],

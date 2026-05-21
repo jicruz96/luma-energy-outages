@@ -1,44 +1,18 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "CUEVAS",
+      "zone": "QUEBRADA NEGRITO",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "EXT FOREST HILLS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

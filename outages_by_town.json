@@ -1,16 +1,23 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "QUEBRADA NEGRITO",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SANTURCE",
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "TERRAZAS DE FAIR VIEW",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB CAPARRA TERRACE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB FLORAL PARK",
       "area": "SAN JUAN"
     }
   ],

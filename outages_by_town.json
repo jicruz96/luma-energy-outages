@@ -1,42 +1,31 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
-      "zone": "CARRAIZO",
+      "zone": "URB PARQUE DEL RIO ENCANTADA",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB COUNTRY CLUB",
+      "zone": "URB LA RIVIERA",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "CERRO GORDO",
+      "zone": "BDA LOS VIEJITOS",
       "area": "BAYAMON"
     }
   ]

@@ -4,9 +4,17 @@
     {
       "zone": "HOYO MULAS",
       "area": "CAROLINA"
+    },
+    {
+      "zone": "MARTIN GONZALEZ",
+      "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [
+    {
+      "zone": "INTERAMERICANA GDNS APTS",
+      "area": "TRUJILLO ALTO"
+    },
     {
       "zone": "URB PARQUE DEL RIO ENCANTADA",
       "area": "TRUJILLO ALTO"
@@ -15,18 +23,41 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "EL CINCO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB LA RIVIERA",
+      "zone": "PROVISIONAL",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUB M A PEREZ",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB REPTO CONTEMPORANEO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB REPTO METROPOLITANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB.CAPARRA TERRACE APT.1",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BDA LOS VIEJITOS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

@@ -2,44 +2,28 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "MARTIN GONZALEZ",
+      "zone": "SABANA ABAJO",
       "area": "CAROLINA"
     }
   ],
-  "TRUJILLO ALTO": [
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "INTERAMERICANA GDNS APTS",
-      "area": "TRUJILLO ALTO"
+      "zone": "Bo. Sonadora",
+      "area": "GUAYNABO"
     },
     {
-      "zone": "URB PARQUE DEL RIO ENCANTADA",
-      "area": "TRUJILLO ALTO"
+      "zone": "URB MUNOZ RIVERA NO CK 2005",
+      "area": "GUAYNABO"
     }
   ],
-  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "EL CINCO",
+      "zone": "Ave. Roosevelt",
       "area": "SAN JUAN"
     },
     {
-      "zone": "PROVISIONAL",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA SUR",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
+      "zone": "RES LAS CASAS ESCALERAS",
       "area": "SAN JUAN"
     },
     {
@@ -47,17 +31,18 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB REPTO CONTEMPORANEO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB REPTO METROPOLITANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB.CAPARRA TERRACE APT.1",
+      "zone": "Urb. San Francisco",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "Bo. Guaraguao Arriba",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    }
+  ]
 }

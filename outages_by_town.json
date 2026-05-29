@@ -1,48 +1,22 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Bo. Sonadora",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB MUNOZ RIVERA NO CK 2005",
+      "zone": "URB. MUÑOZ RIVERA",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Ave. Roosevelt",
+      "zone": "SAN JUAN ANTIGUO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "RES LAS CASAS ESCALERAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB PUB M A PEREZ",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. San Francisco",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "Bo. Guaraguao Arriba",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

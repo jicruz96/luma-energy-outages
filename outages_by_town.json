@@ -1,22 +1,18 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "BO CACAO SECTOR ARRALLANE",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "URB. MUÑOZ RIVERA",
+      "zone": "Bo. La Muda Carr #1",
       "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [
-    {
-      "zone": "SAN JUAN ANTIGUO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": []
 }

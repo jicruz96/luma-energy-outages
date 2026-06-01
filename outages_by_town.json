@@ -1,18 +1,22 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "BO LA VARIANTE",
-      "area": "TRUJILLO ALTO"
+      "zone": "CANGREJO ARRIBA",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": [
+  "SAN JUAN": [
     {
-      "zone": "Bo. Dajaos",
-      "area": "BAYAMON"
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
     }
-  ]
+  ],
+  "BAYAMON": []
 }

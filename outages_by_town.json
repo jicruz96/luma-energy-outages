@@ -1,20 +1,7 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "URB VILLA CAROLINA",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
-    {
-      "zone": "CUEVAS",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "LA GLORIA",
-      "area": "TRUJILLO ALTO"
-    },
     {
       "zone": "QUEBRADA GRANDE",
       "area": "TRUJILLO ALTO"
@@ -23,45 +10,13 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "BO PUEBLO VIEJO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "CAM LOS BIGIO,CAIMITO ALTO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "OCEAN PARK, SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "QUEBRADA ARENAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "T ALTO PR 00976",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB EL SENORIAL",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "URB FLORAL PARK",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "MINILLAS",
+      "zone": "Bo. Nuevo",
       "area": "BAYAMON"
     }
   ]

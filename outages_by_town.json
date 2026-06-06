@@ -1,17 +1,48 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
-      "zone": "CUEVAS",
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "JARDNS DE TRUJILLO ALTO",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
+  "GUAYNABO": [
+    {
+      "zone": "RIO",
+      "area": "GUAYNABO"
+    }
+  ],
+  "SAN JUAN": [
+    {
+      "zone": "Ave. Pinero",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Obrero",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "PUEBLO",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": [
     {
-      "zone": "HATO TEJAS",
+      "zone": "Bo. Buena Vista",
       "area": "BAYAMON"
     }
   ]

@@ -1,13 +1,38 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "ST. JUST",
-      "area": "TRUJILLO ALTO"
+      "zone": "URB PARK SIDE",
+      "area": "GUAYNABO"
     }
   ],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "Bo. Caimito Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COLEGIO MIZPA",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CUPEY ALTO CAM LOS ANDINO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB GONZALEZ SEIJO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB LADERAS DE PALMA REAL",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Caparra Heigths",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": []
 }

@@ -4,25 +4,29 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
+      "zone": "URB ALTURAS DE TORRIMAR",
+      "area": "GUAYNABO"
+    },
+    {
       "zone": "URB PARK SIDE",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Bo. Caimito Alto",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "COLEGIO MIZPA",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY ALTO CAM LOS ANDINO",
+      "zone": "QUEDRADA ARENAS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB GONZALEZ SEIJO",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
@@ -30,9 +34,14 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "Urb. Caparra Heigths",
+      "zone": "URB SANTA MARIA",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "Bo. Pajaros",
+      "area": "BAYAMON"
+    }
+  ]
 }

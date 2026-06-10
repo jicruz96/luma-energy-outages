@@ -2,46 +2,12 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "URB ALTURAS DE TORRIMAR",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB PARK SIDE",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "QUEDRADA ARENAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LADERAS DE PALMA REAL",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB SANTA MARIA",
+      "zone": "CAIMITO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "Bo. Pajaros",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

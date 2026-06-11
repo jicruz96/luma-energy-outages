@@ -5,7 +5,27 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
+      "zone": "Ave. Pinero",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Venezuela",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "DAVILA LLENZA/BASE 3",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUB NEMESIO R CANALES",
       "area": "SAN JUAN"
     }
   ],

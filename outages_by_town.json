@@ -1,30 +1,26 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "TRUJILLO ALTO": [
     {
-      "zone": "PUEBLO VIEJO",
-      "area": "GUAYNABO"
+      "zone": "Bo. Quebrada Grande",
+      "area": "TRUJILLO ALTO"
     }
   ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "EL CINCO",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. La Riviera",
+      "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "URB FLAMBOYAN GARDENS",
+      "zone": "PAJAROS",
       "area": "BAYAMON"
     }
   ]

@@ -4,15 +4,24 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "CAMARONES",
+      "zone": "HATO NUEVO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "URB PUB VISTA HERMOSA",
+      "zone": "EL CINCO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "GUARAGUAO ARRIBA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

@@ -2,25 +2,20 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "HATO NUEVO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "EL CINCO",
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SECT CUPEY ALTO",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "GUARAGUAO ARRIBA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "MINILLAS",
+      "zone": "HATO TEJAS",
       "area": "BAYAMON"
     }
   ]

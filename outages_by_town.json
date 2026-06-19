@@ -1,23 +1,13 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "HATO REY NORTE",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "JUAN SANCHEZ",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

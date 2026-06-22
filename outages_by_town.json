@@ -1,27 +1,31 @@
 {
-  "CATANO": [
+  "CATANO": [],
+  "CAROLINA": [
     {
-      "zone": "Bo. Palmas",
-      "area": "CATANO"
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
     }
   ],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Bo. Cupey Alto",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "VIEJO SAN JUAN VER 15-12",
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "CERRO GORDO",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

@@ -2,13 +2,13 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "HOYO MULAS",
+      "zone": "BO COLO",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [
     {
-      "zone": "LA GLORIA",
+      "zone": "DOS BOCAS",
       "area": "TRUJILLO ALTO"
     }
   ],
@@ -19,7 +19,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "MONACILLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SAN JUAN PR 00909-0000",
       "area": "SAN JUAN"
     },
     {
@@ -27,5 +31,14 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "VILLA CONTESSA BAYAMON",
+      "area": "BAYAMON"
+    }
+  ]
 }

@@ -3,45 +3,24 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "CARRAIZO",
+      "zone": "Bo. Quebrada Negrito",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "CALLE 2 PARCELA 91 PARCEL",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "BO STA ROSA 2/SEC LOS NAZARIOS",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "PUERTA DE TIERRA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LAS AMERICAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LAS LOMAS",
+      "zone": "Bo. Cupey Bajo",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO MULITAS JUAN ASCENCIO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "GUARAGUAO ABAJO",
+      "zone": "Bo. Buena Vista",
       "area": "BAYAMON"
     }
   ]

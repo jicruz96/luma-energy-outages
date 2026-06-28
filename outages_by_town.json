@@ -1,42 +1,36 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    }
-  ],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "Bo. Quebrada Negrito",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "VALLES DE BUENOS AIRES QUB NEG",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "BO GUARAGUAO SECTOR CINTRON",
+      "zone": "CAMARONES",
       "area": "GUAYNABO"
     },
     {
-      "zone": "Carr. 835",
+      "zone": "CANTA GALLO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "CAM LOS ROMERO BO CAIMITO",
+      "zone": "CAIMITO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "REPTO DE DIEGO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB COLINAS DE CUPEY",
       "area": "SAN JUAN"
     }
   ],

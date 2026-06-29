@@ -1,36 +1,29 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
     {
-      "zone": "CAMARONES",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "CANTA GALLO",
+      "zone": "GUARAGUAO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "CAIMITO",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "URB COLLEGE PARK",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "REPTO DE DIEGO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB COLINAS DE CUPEY",
+      "zone": "Zona Ind. Tres Monjita",
       "area": "SAN JUAN"
     }
   ],

@@ -3,27 +3,22 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "CARRAIZO",
+      "zone": "BO LAS CUEVAS",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "GUARAGUAO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
+      "zone": "Bo. Monacillos",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB COLLEGE PARK",
+      "zone": "ORIENTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Zona Ind. Tres Monjita",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],

@@ -3,24 +3,30 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "BO LAS CUEVAS",
+      "zone": "QUEBRADA GRANDE",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB. LOMAS DEL SOL",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "Bo. Monacillos",
+      "zone": "Bo. Caimito Alto",
       "area": "SAN JUAN"
     },
     {
-      "zone": "ORIENTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

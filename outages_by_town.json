@@ -2,17 +2,25 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "URB. PRADO ALTO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "Bo. Cupey Bajo",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "EL CINCO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    }
+  ]
 }

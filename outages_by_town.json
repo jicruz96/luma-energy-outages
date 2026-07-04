@@ -2,24 +2,21 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB MANSIONES GARDEN HILLS",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "Bo. Cupey Bajo",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "EL CINCO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "PAJAROS",
+      "zone": "HATO TEJAS",
       "area": "BAYAMON"
     }
   ]

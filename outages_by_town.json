@@ -1,8 +1,42 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "MARTIN GONZALEZ",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "Urb. Los Ángeles",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": []
 }

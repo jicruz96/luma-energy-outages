@@ -4,25 +4,25 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "RIO",
+      "zone": "PUEBLO VIEJO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "Urb. Garden Hills",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "BO OBRERO",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "EL CINCO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB DAVILA Y LLENZA",
+      "zone": "URB FLORAL PARK",
       "area": "SAN JUAN"
     }
   ],

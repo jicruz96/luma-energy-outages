@@ -4,27 +4,28 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "PUEBLO VIEJO",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "Urb. Garden Hills",
+      "zone": "URB MUNOZ RIVERA",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "URB J B HUYKE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB FLORAL PARK",
+      "zone": "URB VILLA GRANADA",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

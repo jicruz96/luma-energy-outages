@@ -1,23 +1,18 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "Bo. Quebrada Negrito",
-      "area": "TRUJILLO ALTO"
+      "zone": "URB. TORRIMAR",
+      "area": "GUAYNABO"
     }
   ],
-  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "EXP BALDORIOTY ALUMBRADO",
+      "zone": "RIO PIEDRAS HEIGHTS",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BDA VISTA ALEGRE",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

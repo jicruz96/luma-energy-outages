@@ -2,17 +2,12 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "GUAYNABO": [],
+  "SAN JUAN": [],
+  "BAYAMON": [
     {
-      "zone": "URB. TORRIMAR",
-      "area": "GUAYNABO"
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
     }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "RIO PIEDRAS HEIGHTS",
-      "area": "SAN JUAN"
-    }
-  ],
-  "BAYAMON": []
+  ]
 }

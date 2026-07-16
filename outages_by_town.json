@@ -2,16 +2,19 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "SABANA ABAJO",
+      "zone": "Aeropuerto Luis Munoz",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "BARRAZAS",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "COND CORAL BEACH 2",
       "area": "CAROLINA"
     }
   ],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
   "BAYAMON": [

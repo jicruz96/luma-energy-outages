@@ -1,17 +1,20 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
   "BAYAMON": [
     {
+      "zone": "BO BUENA VISTA SEC EL CHICHARO",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Urb. Santa Teresa",
       "area": "BAYAMON"
     }
   ]

@@ -1,29 +1,34 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Dos Bocas",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "CUEVAS",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
-    {
-      "zone": "BO SANTA ROSA 3/SEC CANTA GALL",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "SANTA ROSA",
-      "area": "GUAYNABO"
-    },
     {
       "zone": "URB. TORRIMAR",
       "area": "GUAYNABO"
     },
     {
-      "zone": "URB. VILLA CLEMENTINA",
+      "zone": "Urb. Torrimar",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "Bo. Guaraguao Abajo",
+      "zone": "URB IND MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB VILLA CONTSESSA",
       "area": "BAYAMON"
     }
   ]

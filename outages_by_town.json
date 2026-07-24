@@ -1,5 +1,10 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "Bo. Palmas",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
@@ -8,6 +13,24 @@
       "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "SAN JUAN": [
+    {
+      "zone": "HATO REY SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB COUNTRY CLUB",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "BUENA VISTA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Zona Industrial Corujo",
+      "area": "BAYAMON"
+    }
+  ]
 }

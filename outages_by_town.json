@@ -1,35 +1,30 @@
 {
-  "CATANO": [
-    {
-      "zone": "Bo. Palmas",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "RIO",
+      "zone": "CANTA GALLO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "HATO REY SUR",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB COUNTRY CLUB",
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB CAPARRA TERRACE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BUENA VISTA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "Zona Industrial Corujo",
+      "zone": "MINILLAS",
       "area": "BAYAMON"
     }
   ]

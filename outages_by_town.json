@@ -2,16 +2,20 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "GUAYNABO": [],
+  "SAN JUAN": [
     {
-      "zone": "CANTA GALLO",
-      "area": "GUAYNABO"
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
     }
   ],
-  "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "HATO TEJAS",
+      "zone": "DAJAOS LAS TORONJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "PAJAROS",
       "area": "BAYAMON"
     }
   ]

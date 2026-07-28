@@ -3,17 +3,8 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": [
-    {
-      "zone": "DAJAOS LAS TORONJAS",
-      "area": "BAYAMON"
-    },
     {
       "zone": "PAJAROS",
       "area": "BAYAMON"

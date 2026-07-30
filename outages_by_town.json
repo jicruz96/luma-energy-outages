@@ -1,12 +1,30 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Las Cuevas",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "PUEBLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUB SAN AGUSTIN",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": [
     {
-      "zone": "URB MAGNOLIA GARDENS",
+      "zone": "Bo. Santa Olaya",
       "area": "BAYAMON"
     }
   ]

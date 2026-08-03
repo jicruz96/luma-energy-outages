@@ -2,27 +2,20 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "URB VISTAMAR",
+      "zone": "HOYO MULAS",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "HATO REY SUR",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "MONACILLO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA SUR",
+      "zone": "URB CAPARRA TERRACE",
       "area": "SAN JUAN"
     }
   ],

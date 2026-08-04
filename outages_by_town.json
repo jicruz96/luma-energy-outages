@@ -1,23 +1,22 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "HOYO MULAS",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "FRAILES",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "URB CAPARRA TERRACE",
+      "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB MONTEHIEDRA",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO CERRO GORDO SEC LAS GUAVAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

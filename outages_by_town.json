@@ -1,21 +1,22 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA SUR",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB MONTEHIEDRA",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO CERRO GORDO SEC LAS GUAVAS",
+      "zone": "MINILLAS",
       "area": "BAYAMON"
     }
   ]

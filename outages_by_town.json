@@ -3,33 +3,37 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "QUEBRADA NEGRITO",
+      "zone": "Urb. Esmerald Lake Plantation",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "Bo. Hato Nuevo",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. REPARTO LINDA GARDEN",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
+    {
+      "zone": "Ave. Fernandez Juncos",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "URB LAS LOMAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUB L LLORENS TORRES",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "SANTA OLAYA",
+      "area": "BAYAMON"
+    }
+  ]
 }

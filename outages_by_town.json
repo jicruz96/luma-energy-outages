@@ -1,16 +1,16 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "Urb. Esmerald Lake Plantation",
-      "area": "TRUJILLO ALTO"
+      "zone": "URB PUB L LLORENS TORRES",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Ave. Fernandez Juncos",
+      "zone": "COND MEDICAL CENTER PLAZA",
       "area": "SAN JUAN"
     },
     {
@@ -18,22 +18,13 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "URB LAS LOMAS",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB PUB L LLORENS TORRES",
+      "zone": "URB SAN AGUSTIN",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "SANTA OLAYA",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

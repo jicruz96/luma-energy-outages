@@ -2,29 +2,43 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "URB PUB L LLORENS TORRES",
+      "zone": "PARQUE SAN ANTON",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB. TINTILLO GARDENS",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "COND MEDICAL CENTER PLAZA",
+      "zone": "Bo. Monacillos",
       "area": "SAN JUAN"
     },
     {
-      "zone": "CUPEY",
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB LAS LOMAS",
+      "zone": "URB REPTO METROPOLITANO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB SAN AGUSTIN",
+      "zone": "Urb. Rio Piedras Heigh",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "Bo. Pajaros",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "DAJAOS",
+      "area": "BAYAMON"
+    }
+  ]
 }

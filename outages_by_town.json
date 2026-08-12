@@ -2,42 +2,25 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "PARQUE SAN ANTON",
+      "zone": "SABANA ABAJO",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "URB. TINTILLO GARDENS",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Bo. Monacillos",
+      "zone": "BDA BUENA VISTA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB REPTO METROPOLITANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Rio Piedras Heigh",
+      "zone": "URB CAPARRA TERRACE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "Bo. Pajaros",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "DAJAOS",
+      "zone": "MINILLAS",
       "area": "BAYAMON"
     }
   ]

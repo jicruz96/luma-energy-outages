@@ -2,25 +2,30 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "SABANA ABAJO",
+      "zone": "CANGREJO ARRIBA",
       "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB. VILLA CAPARRA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "BDA BUENA VISTA",
+      "zone": "Sector Morcelo",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB CAPARRA TERRACE",
+      "zone": "URB CROWN HILLS",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "MINILLAS",
+      "zone": "JUAN SANCHEZ",
       "area": "BAYAMON"
     }
   ]

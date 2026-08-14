@@ -1,31 +1,39 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "CANGREJO ARRIBA",
-      "area": "CAROLINA"
+      "zone": "CUEVAS",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "URB. VILLA CAPARRA",
+      "zone": "CAMARONES",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Sector Morcelo",
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB CROWN HILLS",
+      "zone": "URB REPTO METROPOLITANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB TINTILLO GARDENS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VENUS GARDENS",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "JUAN SANCHEZ",
+      "zone": "BO NUEVO SEC LA CUARTA",
       "area": "BAYAMON"
     }
   ]

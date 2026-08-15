@@ -3,37 +3,28 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "CUEVAS",
+      "zone": "BO DOS BOCAS-SEC HIRALDO",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "CAMARONES",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "MONACILLO",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB REPTO METROPOLITANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB TINTILLO GARDENS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB VENUS GARDENS",
+      "zone": "URB CAPARRA HEIGHTS",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO NUEVO SEC LA CUARTA",
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB LOMAS VERDES",
       "area": "BAYAMON"
     }
   ]

@@ -1,30 +1,74 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "BO DOS BOCAS-SEC HIRALDO",
-      "area": "TRUJILLO ALTO"
+      "zone": "BO CAMARONES CENTRO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "PUEBLO VIEJO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB TINTILLO GARDENS",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. PARKVILLE NORTE",
+      "area": "GUAYNABO"
     }
   ],
-  "GUAYNABO": [],
   "SAN JUAN": [
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB CAPARRA HEIGHTS",
+      "zone": "MONACILLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO URBANO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "OCEAN PARK",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "PUEBLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SAN JUAN PR 00909-0000",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB. PARKVILLE",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "CERRO GORDO",
+      "zone": "BUENA VISTA",
       "area": "BAYAMON"
     },
     {
-      "zone": "URB LOMAS VERDES",
+      "zone": "JUAN SANCHEZ",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "PAJAROS",
       "area": "BAYAMON"
     }
   ]

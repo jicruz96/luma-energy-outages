@@ -1,26 +1,18 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "VILLA DE LA MARINA",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
       "zone": "ORIENTE",
       "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB SANTA ANA",
-      "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "JUAN SANCHEZ",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "SUITE 1 URB MONTANEZ",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

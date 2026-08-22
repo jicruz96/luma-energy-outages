@@ -1,18 +1,13 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "VILLA DE LA MARINA",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [
+  "GUAYNABO": [
     {
-      "zone": "ORIENTE",
-      "area": "SAN JUAN"
+      "zone": "GUARAGUAO",
+      "area": "GUAYNABO"
     }
   ],
+  "SAN JUAN": [],
   "BAYAMON": []
 }

@@ -2,12 +2,25 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "GUAYNABO": [],
+  "SAN JUAN": [
     {
-      "zone": "GUARAGUAO",
-      "area": "GUAYNABO"
+      "zone": "SABANA LLANA NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB CAPARRA TERRACE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUERTO NUEVO",
+      "area": "SAN JUAN"
     }
   ],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO PAJAROS PUERTORRIQUENOS",
+      "area": "BAYAMON"
+    }
+  ]
 }

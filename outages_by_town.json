@@ -5,11 +5,11 @@
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA NORTE",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB CAPARRA TERRACE",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     },
     {
@@ -17,10 +17,5 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BO PAJAROS PUERTORRIQUENOS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

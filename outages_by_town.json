@@ -2,20 +2,29 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [
+  "GUAYNABO": [
     {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
+      "zone": "Bo. Camarones",
+      "area": "GUAYNABO"
     },
     {
-      "zone": "SABANA LLANA NORTE",
-      "area": "SAN JUAN"
+      "zone": "SEC DIAZ, BO SONADORA ALTA",
+      "area": "GUAYNABO"
     },
     {
-      "zone": "URB PUERTO NUEVO",
-      "area": "SAN JUAN"
+      "zone": "URB. BELLOMONTE",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. MANSIONES DE SAN PATRICIO",
+      "area": "GUAYNABO"
     }
   ],
-  "BAYAMON": []
+  "SAN JUAN": [],
+  "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    }
+  ]
 }

@@ -1,30 +1,27 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "SANTA TERESITA",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Bo. Camarones",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "SEC DIAZ, BO SONADORA ALTA",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. BELLOMONTE",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. MANSIONES DE SAN PATRICIO",
+      "zone": "Bo. Frailes",
       "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [],
-  "BAYAMON": [
+  "SAN JUAN": [
     {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PUB LLORENS TORRES",
+      "area": "SAN JUAN"
     }
-  ]
+  ],
+  "BAYAMON": []
 }

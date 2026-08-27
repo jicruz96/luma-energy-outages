@@ -1,27 +1,23 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "SANTA TERESITA",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Bo. Frailes",
+      "zone": "Bo. Santa Rosa",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB PUB LLORENS TORRES",
+      "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "Bo. Minillas",
+      "area": "BAYAMON"
+    }
+  ]
 }

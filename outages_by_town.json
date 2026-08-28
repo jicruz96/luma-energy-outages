@@ -1,23 +1,18 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "CAROLINA": [
     {
-      "zone": "Bo. Santa Rosa",
-      "area": "GUAYNABO"
+      "zone": "BO BARRAZAS CUESTA LOS FLACOS",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA NORTE",
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "Bo. Minillas",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

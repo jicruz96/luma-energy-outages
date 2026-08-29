@@ -1,16 +1,20 @@
 {
-  "CATANO": [],
-  "CAROLINA": [
+  "CATANO": [
     {
-      "zone": "BO BARRAZAS CUESTA LOS FLACOS",
-      "area": "CAROLINA"
+      "zone": "BO PALO SECO",
+      "area": "CATANO"
     }
   ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "MONACILLO",
+      "zone": "RIO PIEDRAS HEIGHTS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
       "area": "SAN JUAN"
     }
   ],

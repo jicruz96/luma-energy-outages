@@ -1,16 +1,16 @@
 {
-  "CATANO": [
+  "CATANO": [],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "BO PALO SECO",
-      "area": "CATANO"
+      "zone": "TRUJILLO ALTO",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "RIO PIEDRAS HEIGHTS",
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     },
     {
@@ -18,5 +18,10 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "GUARAGUAO ABAJO",
+      "area": "BAYAMON"
+    }
+  ]
 }

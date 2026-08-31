@@ -1,27 +1,17 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "TRUJILLO ALTO",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "MONACILLO",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
+      "zone": "MONACILLO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "GUARAGUAO ABAJO",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

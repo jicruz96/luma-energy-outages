@@ -1,15 +1,34 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "CAROLINA": [
+    {
+      "zone": "BO CARRUZO",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "ST. JUST",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [
+    {
+      "zone": "RIO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "BDA BUENA VISTA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO",
+      "zone": "EL CINCO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB EL PARAISO",
       "area": "SAN JUAN"
     }
   ],

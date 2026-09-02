@@ -1,36 +1,51 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "BO CARRUZO",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "ST. JUST",
+      "zone": "URB CIUDAD UNIVERSITARIA",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "RIO",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "BDA BUENA VISTA",
+      "zone": "CAIMITO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "EL CINCO",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB EL PARAISO",
+      "zone": "HATO REY CENTRAL",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONACILLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "MONTE ATENAS-EL CAPA,CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Beverly Hills",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO CERRO GORDO/SECT LAS GUAVAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

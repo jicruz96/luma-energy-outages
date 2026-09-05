@@ -1,18 +1,26 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BO LA GLORIA SEC CULEBRA",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "Bo. Las Cuevas",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "URB SUMMIT HILLS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Zona Industrial Bechara",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "PAJAROS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

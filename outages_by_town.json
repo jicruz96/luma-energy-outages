@@ -1,13 +1,21 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "BO CAIMITO CAM CHICLANA 2",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "HATO REY NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB EL COMANDANTE",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": []
 }

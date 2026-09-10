@@ -1,18 +1,27 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "STA CRUZ SEC JULIA DE BURGOS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB. PONCE DE LEON",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "HATO REY NORTE",
+      "zone": "BO SABANA LLANA PARC FALU",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB COUNTRY CLUB",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "SANTA OLAYA",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

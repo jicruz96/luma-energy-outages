@@ -4,24 +4,19 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "COND REGENCY PARK /LOS FRAILES",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB CAPARRA HILLS",
+      "zone": "PUEBLO VIEJO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "SANTURCE",
+      "zone": "VILLA PALMERAS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Zona Portuaria",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "URB STA JUANITA",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

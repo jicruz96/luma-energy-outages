@@ -2,21 +2,16 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "GUAYNABO": [],
+  "SAN JUAN": [],
+  "BAYAMON": [
     {
-      "zone": "PUEBLO VIEJO",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "VILLA PALMERAS",
-      "area": "SAN JUAN"
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
     },
     {
-      "zone": "Zona Portuaria",
-      "area": "SAN JUAN"
+      "zone": "URB SANS SOUCI",
+      "area": "BAYAMON"
     }
-  ],
-  "BAYAMON": []
+  ]
 }

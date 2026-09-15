@@ -1,13 +1,35 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "COND PONTEZUELA",
-      "area": "CAROLINA"
+      "zone": "VILLAS DE TRUJILLO-T ALTO",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "SAN JUAN": [
+    {
+      "zone": "Ave. Kennedy",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "EL CINCO",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "GUARAGUAO ARRIBA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

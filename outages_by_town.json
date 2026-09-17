@@ -1,22 +1,22 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
     {
-      "zone": "BO LA GLORIA",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
+      "zone": "URB PARKVILLE",
+      "area": "GUAYNABO"
     }
   ],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": [
+  "SAN JUAN": [
     {
-      "zone": "URB LA ENRRAMADA",
-      "area": "BAYAMON"
+      "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Zona Industrial Bechara",
+      "area": "SAN JUAN"
     }
-  ]
+  ],
+  "BAYAMON": []
 }

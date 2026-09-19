@@ -1,28 +1,33 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "BO CANOVANILLAS CAM LUIS LOPEZ",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "COND LAGUNA GARDENS 5",
-      "area": "CAROLINA"
+      "zone": "QUEBRADA GRANDE",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "CANTA GALLO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. PARKVILLE",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "**VER NOTA EN 15-12**",
       "area": "SAN JUAN"
     },
     {
-      "zone": "ORIENTE",
+      "zone": "Bo. Cupey Bajo",
       "area": "SAN JUAN"
     },
     {
-      "zone": "QUEBRADA ARENAS",
+      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
@@ -30,21 +35,13 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "SANTURCE",
+      "zone": "URB PUERTO NUEVOP",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
-      "zone": "BO CERRO GORDO",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "BUENA VISTA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB HNAS DAVILA",
+      "zone": "URB PUB BRISAS DE BAYAMON",
       "area": "BAYAMON"
     }
   ]

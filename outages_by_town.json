@@ -1,16 +1,20 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "TRUJILLO ALTO": [
     {
-      "zone": "BO MAMEY II/HECTOR FIGUEROA",
-      "area": "GUAYNABO"
+      "zone": "Bo. Carraizo",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "ST. JUST",
+      "area": "TRUJILLO ALTO"
     }
   ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "BO MANATI ABAJO",
+      "zone": "CUPEY",
       "area": "SAN JUAN"
     }
   ],

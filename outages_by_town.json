@@ -2,25 +2,12 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
+  "GUAYNABO": [],
+  "SAN JUAN": [],
+  "BAYAMON": [
     {
-      "zone": "FRAILES",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "SANTA ROSA",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "SONADORA",
-      "area": "GUAYNABO"
+      "zone": "EXT FOREST HILLS BAYAMON",
+      "area": "BAYAMON"
     }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "CAM LA CORTE BO TORTUGO",
-      "area": "SAN JUAN"
-    }
-  ],
-  "BAYAMON": []
+  ]
 }

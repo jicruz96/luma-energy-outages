@@ -1,13 +1,31 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": [
+  "CAROLINA": [
     {
-      "zone": "EXT FOREST HILLS BAYAMON",
-      "area": "BAYAMON"
+      "zone": "CACAO",
+      "area": "CAROLINA"
     }
-  ]
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BO LAS CUEVAS CALLE A",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [],
+  "SAN JUAN": [
+    {
+      "zone": "Bo. Caimito Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "HATO REY NORTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SAN JUAN CHALETS/ BOMBA SANITA",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": []
 }

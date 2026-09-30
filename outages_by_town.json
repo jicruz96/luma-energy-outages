@@ -1,31 +1,31 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "CACAO",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "BO LAS CUEVAS CALLE A",
+      "zone": "LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "SEC SABANA QDA GRANDE BOMBAS",
       "area": "TRUJILLO ALTO"
     }
   ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "Bo. Caimito Alto",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     },
     {
-      "zone": "SAN JUAN CHALETS/ BOMBA SANITA",
+      "zone": "URB REPTO METROPOLITANO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

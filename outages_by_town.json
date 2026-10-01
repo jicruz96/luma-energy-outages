@@ -1,31 +1,23 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "LA GLORIA",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "SEC SABANA QDA GRANDE BOMBAS",
-      "area": "TRUJILLO ALTO"
+      "zone": "CANGREJO ARRIBA",
+      "area": "CAROLINA"
     }
   ],
-  "GUAYNABO": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB SAN RAMON",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "HATO REY NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB REPTO METROPOLITANO",
+      "zone": "URB CAPARRA TERRACE20",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

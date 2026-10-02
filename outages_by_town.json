@@ -1,23 +1,47 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "CANGREJO ARRIBA",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "URB SAN RAMON",
+      "zone": "HATO NUEVO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. PARKVILLE",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "URB CAPARRA TERRACE20",
+      "zone": "Ave. 65 De Infanteria",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COND UNIVERSITY PLAZA APTS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB COUNTRY CLUB",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO SANTA OLAYA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "RIO PLANTATIONHATO TEJAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "SANTA OLAYA",
+      "area": "BAYAMON"
+    }
+  ]
 }

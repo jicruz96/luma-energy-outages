@@ -2,45 +2,11 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "HATO NUEVO",
-      "area": "GUAYNABO"
-    },
-    {
-      "zone": "URB. PARKVILLE",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "Ave. 65 De Infanteria",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "COND UNIVERSITY PLAZA APTS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB COUNTRY CLUB",
-      "area": "SAN JUAN"
-    }
-  ],
+  "GUAYNABO": [],
+  "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "BO SANTA OLAYA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "RIO PLANTATIONHATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "SANTA OLAYA",
+      "zone": "URB HERMANAS DAVILA",
       "area": "BAYAMON"
     }
   ]

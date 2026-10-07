@@ -1,47 +1,12 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "Casco Urbano Carolina",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "FRAILES",
-      "area": "GUAYNABO"
-    }
-  ],
-  "SAN JUAN": [
-    {
-      "zone": "COND LAS MERCEDES(EXT S.AGUSTI",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Sagrado Corazon",
-      "area": "SAN JUAN"
-    }
-  ],
+  "GUAYNABO": [],
+  "SAN JUAN": [],
   "BAYAMON": [
     {
-      "zone": "BO DAJAOS BAYAMON",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB LAS AMERICAS",
+      "zone": "URB EL ZORZAL BO BUENA VISTA",
       "area": "BAYAMON"
     }
   ]

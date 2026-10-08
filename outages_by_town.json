@@ -1,13 +1,13 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "ST. JUST",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": [
-    {
-      "zone": "URB EL ZORZAL BO BUENA VISTA",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

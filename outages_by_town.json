@@ -1,13 +1,18 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "ST. JUST",
-      "area": "TRUJILLO ALTO"
+      "zone": "MARTIN GONZALEZ",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO NUEVO/SECT MARCANO TORRES",
+      "area": "BAYAMON"
+    }
+  ]
 }

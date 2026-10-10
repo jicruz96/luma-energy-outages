@@ -1,18 +1,8 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "MARTIN GONZALEZ",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": [
-    {
-      "zone": "BO NUEVO/SECT MARCANO TORRES",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

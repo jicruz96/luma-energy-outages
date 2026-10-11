@@ -4,5 +4,10 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "Bo. Guaraguao Arriba",
+      "area": "BAYAMON"
+    }
+  ]
 }

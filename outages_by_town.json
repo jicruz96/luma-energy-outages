@@ -1,18 +1,13 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
-  "SAN JUAN": [
+  "CAROLINA": [
     {
-      "zone": "GOBERNADOR PIÑERO",
-      "area": "SAN JUAN"
+      "zone": "Ave. Iturregui",
+      "area": "CAROLINA"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "BO NUEVO SECT EL RIITO",
-      "area": "BAYAMON"
-    }
-  ]
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
+  "SAN JUAN": [],
+  "BAYAMON": []
 }

@@ -1,7 +1,17 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "CAROLINA": [
+    {
+      "zone": "MARTIN GONZALEZ",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Quebrada Negrito",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
@@ -9,13 +19,14 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SABANA LLANA SUR",
+      "zone": "Viejo San Juan",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "MINILLAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

@@ -1,18 +1,13 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [
+  "CAROLINA": [
     {
-      "zone": "CARRAIZO",
-      "area": "TRUJILLO ALTO"
+      "zone": "BO CANOVANILLAS SECT LOS HANCE",
+      "area": "CAROLINA"
     }
   ],
+  "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [
-    {
-      "zone": "SANTURCE",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": []
 }

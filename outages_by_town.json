@@ -1,13 +1,17 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "BO CANOVANILLAS SECT LOS HANCE",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
+  "SAN JUAN": [
+    {
+      "zone": "CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "EL CINCO",
+      "area": "SAN JUAN"
+    }
+  ],
   "BAYAMON": []
 }

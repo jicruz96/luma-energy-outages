@@ -1,13 +1,35 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "BO LAS CUEVAS CALLE A",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
-      "zone": "GOBERNADOR PIÑERO",
+      "zone": "Bo. Cupey Alto",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Sector El Cinco",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB REPTO METROPOLITANO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "DAJAOS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "HATO TEJAS",
+      "area": "BAYAMON"
+    }
+  ]
 }

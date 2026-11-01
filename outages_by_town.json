@@ -3,15 +3,6 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [
-    {
-      "zone": "URB COUNTRY CLUB",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LAS LOMAS",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": []
 }

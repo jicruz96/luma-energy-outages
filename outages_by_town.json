@@ -3,6 +3,16 @@
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
-  "SAN JUAN": [],
-  "BAYAMON": []
+  "SAN JUAN": [
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "URB. REXVILLE",
+      "area": "BAYAMON"
+    }
+  ]
 }
